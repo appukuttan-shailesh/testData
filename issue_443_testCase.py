@@ -1,5 +1,5 @@
 """
-Simple test of injecting noisy current into a cell
+Simple test of injecting various types of current into a cell
 """
 import sys
 from pyNN.utility import get_script_args, normalized_filename
