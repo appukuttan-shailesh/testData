@@ -31,6 +31,7 @@ if '--plot-figure' in sys.argv:
     plt.ion()
     vm = cells.get_data().segments[0].filter(name="v")[0]
 
+    plt.figure(figsize=(8,4))
     plt.plot(vm.times, vm)
     plt.xlabel("time (ms)")
     plt.ylabel("Vm (mV)")
