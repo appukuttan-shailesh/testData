@@ -1,0 +1,1658 @@
+[Command: python -u /home/shailesh/Work/PyNN/issue_timing/testCase_noisy_checkDiff.py brian --plot-figure]
+self.dt * 1e3 (ms):  0.1
+simulator.state.dt (ms):  0.1
+self.dt * 1e3 (ms):  0.1
+simulator.state.dt (ms):  0.1
+s.s.t =  0.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -40.0
+_compute() not invoked
+s.s.t =  0.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.9
+_compute() not invoked
+s.s.t =  0.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.8
+_compute() not invoked
+s.s.t =  0.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.7
+_compute() not invoked
+s.s.t =  0.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.6
+_compute() not invoked
+s.s.t =  0.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.5
+_compute() not invoked
+s.s.t =  0.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.4
+_compute() not invoked
+s.s.t =  0.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.3
+_compute() not invoked
+s.s.t =  0.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.2
+_compute() not invoked
+s.s.t =  0.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.1
+_compute() not invoked
+s.s.t =  1.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -39.0
+_compute() not invoked
+s.s.t =  1.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.9
+_compute() not invoked
+s.s.t =  1.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.8
+_compute() not invoked
+s.s.t =  1.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.7
+_compute() not invoked
+s.s.t =  1.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.6
+_compute() not invoked
+s.s.t =  1.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.5
+_compute() not invoked
+s.s.t =  1.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.4
+_compute() not invoked
+s.s.t =  1.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.3
+_compute() not invoked
+s.s.t =  1.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.2
+_compute() not invoked
+s.s.t =  1.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.1
+_compute() not invoked
+s.s.t =  2.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -38.0
+_compute() not invoked
+s.s.t =  2.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.9
+_compute() not invoked
+s.s.t =  2.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.8
+_compute() not invoked
+s.s.t =  2.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.7
+_compute() not invoked
+s.s.t =  2.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.6
+_compute() not invoked
+s.s.t =  2.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.5
+_compute() not invoked
+s.s.t =  2.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.4
+_compute() not invoked
+s.s.t =  2.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.3
+_compute() not invoked
+s.s.t =  2.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.2
+_compute() not invoked
+s.s.t =  2.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.1
+_compute() not invoked
+s.s.t =  3.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -37.0
+_compute() not invoked
+s.s.t =  3.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.9
+_compute() not invoked
+s.s.t =  3.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.8
+_compute() not invoked
+s.s.t =  3.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.7
+_compute() not invoked
+s.s.t =  3.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.6
+_compute() not invoked
+s.s.t =  3.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.5
+_compute() not invoked
+s.s.t =  3.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.4
+_compute() not invoked
+s.s.t =  3.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.3
+_compute() not invoked
+s.s.t =  3.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.2
+_compute() not invoked
+s.s.t =  3.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.1
+_compute() not invoked
+s.s.t =  4.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -36.0
+_compute() not invoked
+s.s.t =  4.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.9
+_compute() not invoked
+s.s.t =  4.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.8
+_compute() not invoked
+s.s.t =  4.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.7
+_compute() not invoked
+s.s.t =  4.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.6
+_compute() not invoked
+s.s.t =  4.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.5
+_compute() not invoked
+s.s.t =  4.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.4
+_compute() not invoked
+s.s.t =  4.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.3
+_compute() not invoked
+s.s.t =  4.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.2
+_compute() not invoked
+s.s.t =  4.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.1
+_compute() not invoked
+s.s.t =  5.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -35.0
+_compute() not invoked
+s.s.t =  5.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.9
+_compute() not invoked
+s.s.t =  5.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.8
+_compute() not invoked
+s.s.t =  5.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.7
+_compute() not invoked
+s.s.t =  5.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.6
+_compute() not invoked
+s.s.t =  5.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.5
+_compute() not invoked
+s.s.t =  5.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.4
+_compute() not invoked
+s.s.t =  5.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.3
+_compute() not invoked
+s.s.t =  5.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.2
+_compute() not invoked
+s.s.t =  5.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.1
+_compute() not invoked
+s.s.t =  6.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -34.0
+_compute() not invoked
+s.s.t =  6.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.9
+_compute() not invoked
+s.s.t =  6.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.8
+_compute() not invoked
+s.s.t =  6.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.7
+_compute() not invoked
+s.s.t =  6.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.6
+_compute() not invoked
+s.s.t =  6.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.5
+_compute() not invoked
+s.s.t =  6.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.4
+_compute() not invoked
+s.s.t =  6.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.3
+_compute() not invoked
+s.s.t =  6.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.2
+_compute() not invoked
+s.s.t =  6.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.1
+_compute() not invoked
+s.s.t =  7.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -33.0
+_compute() not invoked
+s.s.t =  7.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.9
+_compute() not invoked
+s.s.t =  7.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.8
+_compute() not invoked
+s.s.t =  7.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.7
+_compute() not invoked
+s.s.t =  7.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.6
+_compute() not invoked
+s.s.t =  7.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.5
+_compute() not invoked
+s.s.t =  7.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.4
+_compute() not invoked
+s.s.t =  7.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.3
+_compute() not invoked
+s.s.t =  7.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.2
+_compute() not invoked
+s.s.t =  7.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.1
+_compute() not invoked
+s.s.t =  8.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -32.0
+_compute() not invoked
+s.s.t =  8.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.9
+_compute() not invoked
+s.s.t =  8.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.8
+_compute() not invoked
+s.s.t =  8.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.7
+_compute() not invoked
+s.s.t =  8.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.6
+_compute() not invoked
+s.s.t =  8.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.5
+_compute() not invoked
+s.s.t =  8.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.4
+_compute() not invoked
+s.s.t =  8.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.3
+_compute() not invoked
+s.s.t =  8.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.2
+_compute() not invoked
+s.s.t =  8.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.1
+_compute() not invoked
+s.s.t =  9.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -31.0
+_compute() not invoked
+s.s.t =  9.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.9
+_compute() not invoked
+s.s.t =  9.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.8
+_compute() not invoked
+s.s.t =  9.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.7
+_compute() not invoked
+s.s.t =  9.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.6
+_compute() not invoked
+s.s.t =  9.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.5
+_compute() not invoked
+s.s.t =  9.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.4
+_compute() not invoked
+s.s.t =  9.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.3
+_compute() not invoked
+s.s.t =  9.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.2
+_compute() not invoked
+s.s.t =  9.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.1
+_compute() not invoked
+s.s.t =  10.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -30.0
+_compute() not invoked
+s.s.t =  10.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.9
+_compute() not invoked
+s.s.t =  10.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.8
+_compute() not invoked
+s.s.t =  10.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.7
+_compute() not invoked
+s.s.t =  10.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.6
+_compute() not invoked
+s.s.t =  10.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.5
+_compute() not invoked
+s.s.t =  10.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.4
+_compute() not invoked
+s.s.t =  10.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.3
+_compute() not invoked
+s.s.t =  10.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.2
+_compute() not invoked
+s.s.t =  10.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.1
+_compute() not invoked
+s.s.t =  11.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -29.0
+_compute() not invoked
+s.s.t =  11.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.9
+_compute() not invoked
+s.s.t =  11.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.8
+_compute() not invoked
+s.s.t =  11.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.7
+_compute() not invoked
+s.s.t =  11.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.6
+_compute() not invoked
+s.s.t =  11.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.5
+_compute() not invoked
+s.s.t =  11.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.4
+_compute() not invoked
+s.s.t =  11.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.3
+_compute() not invoked
+s.s.t =  11.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.2
+_compute() not invoked
+s.s.t =  11.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.1
+_compute() not invoked
+s.s.t =  12.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -28.0
+_compute() not invoked
+s.s.t =  12.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.9
+_compute() not invoked
+s.s.t =  12.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.8
+_compute() not invoked
+s.s.t =  12.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.7
+_compute() not invoked
+s.s.t =  12.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.6
+_compute() not invoked
+s.s.t =  12.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.5
+_compute() not invoked
+s.s.t =  12.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.4
+_compute() not invoked
+s.s.t =  12.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.3
+_compute() not invoked
+s.s.t =  12.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.2
+_compute() not invoked
+s.s.t =  12.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.1
+_compute() not invoked
+s.s.t =  13.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -27.0
+_compute() not invoked
+s.s.t =  13.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.9
+_compute() not invoked
+s.s.t =  13.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.8
+_compute() not invoked
+s.s.t =  13.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.7
+_compute() not invoked
+s.s.t =  13.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.6
+_compute() not invoked
+s.s.t =  13.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.5
+_compute() not invoked
+s.s.t =  13.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.4
+_compute() not invoked
+s.s.t =  13.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.3
+_compute() not invoked
+s.s.t =  13.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.2
+_compute() not invoked
+s.s.t =  13.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.1
+_compute() not invoked
+s.s.t =  14.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -26.0
+_compute() not invoked
+s.s.t =  14.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.9
+_compute() not invoked
+s.s.t =  14.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.8
+_compute() not invoked
+s.s.t =  14.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.7
+_compute() not invoked
+s.s.t =  14.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.6
+_compute() not invoked
+s.s.t =  14.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.5
+_compute() not invoked
+s.s.t =  14.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.4
+_compute() not invoked
+s.s.t =  14.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.3
+_compute() not invoked
+s.s.t =  14.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.2
+_compute() not invoked
+s.s.t =  14.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.1
+_compute() not invoked
+s.s.t =  15.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -25.0
+_compute() not invoked
+s.s.t =  15.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.9
+_compute() not invoked
+s.s.t =  15.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.8
+_compute() not invoked
+s.s.t =  15.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.7
+_compute() not invoked
+s.s.t =  15.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.6
+_compute() not invoked
+s.s.t =  15.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.5
+_compute() not invoked
+s.s.t =  15.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.4
+_compute() not invoked
+s.s.t =  15.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.3
+_compute() not invoked
+s.s.t =  15.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.2
+_compute() not invoked
+s.s.t =  15.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.1
+_compute() not invoked
+s.s.t =  16.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -24.0
+_compute() not invoked
+s.s.t =  16.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.9
+_compute() not invoked
+s.s.t =  16.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.8
+_compute() not invoked
+s.s.t =  16.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.7
+_compute() not invoked
+s.s.t =  16.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.6
+_compute() not invoked
+s.s.t =  16.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.5
+_compute() not invoked
+s.s.t =  16.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.4
+_compute() not invoked
+s.s.t =  16.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.3
+_compute() not invoked
+s.s.t =  16.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.2
+_compute() not invoked
+s.s.t =  16.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.1
+_compute() not invoked
+s.s.t =  17.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -23.0
+_compute() not invoked
+s.s.t =  17.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.9
+_compute() not invoked
+s.s.t =  17.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.8
+_compute() not invoked
+s.s.t =  17.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.7
+_compute() not invoked
+s.s.t =  17.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.6
+_compute() not invoked
+s.s.t =  17.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.5
+_compute() not invoked
+s.s.t =  17.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.4
+_compute() not invoked
+s.s.t =  17.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.3
+_compute() not invoked
+s.s.t =  17.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.2
+_compute() not invoked
+s.s.t =  17.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.1
+_compute() not invoked
+s.s.t =  18.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -22.0
+_compute() not invoked
+s.s.t =  18.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.9
+_compute() not invoked
+s.s.t =  18.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.8
+_compute() not invoked
+s.s.t =  18.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.7
+_compute() not invoked
+s.s.t =  18.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.6
+_compute() not invoked
+s.s.t =  18.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.5
+_compute() not invoked
+s.s.t =  18.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.4
+_compute() not invoked
+s.s.t =  18.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.3
+_compute() not invoked
+s.s.t =  18.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.2
+_compute() not invoked
+s.s.t =  18.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.1
+_compute() not invoked
+s.s.t =  19.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -21.0
+_compute() not invoked
+s.s.t =  19.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.9
+_compute() not invoked
+s.s.t =  19.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.8
+_compute() not invoked
+s.s.t =  19.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.7
+_compute() not invoked
+s.s.t =  19.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.6
+_compute() not invoked
+s.s.t =  19.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.5
+_compute() not invoked
+s.s.t =  19.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.4
+_compute() not invoked
+s.s.t =  19.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.3
+_compute() not invoked
+s.s.t =  19.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.2
+_compute() not invoked
+s.s.t =  19.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.1
+_compute() not invoked
+s.s.t =  20.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -20.0
+_compute() not invoked
+s.s.t =  20.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.9
+_compute() not invoked
+s.s.t =  20.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.8
+_compute() not invoked
+s.s.t =  20.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.7
+_compute() not invoked
+s.s.t =  20.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.6
+_compute() not invoked
+s.s.t =  20.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.5
+_compute() not invoked
+s.s.t =  20.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.4
+_compute() not invoked
+s.s.t =  20.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.3
+_compute() not invoked
+s.s.t =  20.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.2
+_compute() not invoked
+s.s.t =  20.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.1
+_compute() not invoked
+s.s.t =  21.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -19.0
+_compute() not invoked
+s.s.t =  21.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.9
+_compute() not invoked
+s.s.t =  21.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.8
+_compute() not invoked
+s.s.t =  21.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.7
+_compute() not invoked
+s.s.t =  21.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.6
+_compute() not invoked
+s.s.t =  21.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.5
+_compute() not invoked
+s.s.t =  21.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.4
+_compute() not invoked
+s.s.t =  21.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.3
+_compute() not invoked
+s.s.t =  21.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.2
+_compute() not invoked
+s.s.t =  21.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.1
+_compute() not invoked
+s.s.t =  22.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -18.0
+_compute() not invoked
+s.s.t =  22.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.9
+_compute() not invoked
+s.s.t =  22.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.8
+_compute() not invoked
+s.s.t =  22.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.7
+_compute() not invoked
+s.s.t =  22.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.6
+_compute() not invoked
+s.s.t =  22.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.5
+_compute() not invoked
+s.s.t =  22.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.4
+_compute() not invoked
+s.s.t =  22.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.3
+_compute() not invoked
+s.s.t =  22.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.2
+_compute() not invoked
+s.s.t =  22.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.1
+_compute() not invoked
+s.s.t =  23.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -17.0
+_compute() not invoked
+s.s.t =  23.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.9
+_compute() not invoked
+s.s.t =  23.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.8
+_compute() not invoked
+s.s.t =  23.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.7
+_compute() not invoked
+s.s.t =  23.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.6
+_compute() not invoked
+s.s.t =  23.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.5
+_compute() not invoked
+s.s.t =  23.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.4
+_compute() not invoked
+s.s.t =  23.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.3
+_compute() not invoked
+s.s.t =  23.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.2
+_compute() not invoked
+s.s.t =  23.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.1
+_compute() not invoked
+s.s.t =  24.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -16.0
+_compute() not invoked
+s.s.t =  24.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.9
+_compute() not invoked
+s.s.t =  24.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.8
+_compute() not invoked
+s.s.t =  24.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.7
+_compute() not invoked
+s.s.t =  24.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.6
+_compute() not invoked
+s.s.t =  24.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.5
+_compute() not invoked
+s.s.t =  24.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.4
+_compute() not invoked
+s.s.t =  24.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.3
+_compute() not invoked
+s.s.t =  24.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.2
+_compute() not invoked
+s.s.t =  24.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.1
+_compute() not invoked
+s.s.t =  25.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -15.0
+_compute() not invoked
+s.s.t =  25.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.9
+_compute() not invoked
+s.s.t =  25.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.8
+_compute() not invoked
+s.s.t =  25.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.7
+_compute() not invoked
+s.s.t =  25.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.6
+_compute() not invoked
+s.s.t =  25.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.5
+_compute() not invoked
+s.s.t =  25.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.4
+_compute() not invoked
+s.s.t =  25.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.3
+_compute() not invoked
+s.s.t =  25.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.2
+_compute() not invoked
+s.s.t =  25.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.1
+_compute() not invoked
+s.s.t =  26.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -14.0
+_compute() not invoked
+s.s.t =  26.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.9
+_compute() not invoked
+s.s.t =  26.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.8
+_compute() not invoked
+s.s.t =  26.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.7
+_compute() not invoked
+s.s.t =  26.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.6
+_compute() not invoked
+s.s.t =  26.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.5
+_compute() not invoked
+s.s.t =  26.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.4
+_compute() not invoked
+s.s.t =  26.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.3
+_compute() not invoked
+s.s.t =  26.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.2
+_compute() not invoked
+s.s.t =  26.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.1
+_compute() not invoked
+s.s.t =  27.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -13.0
+_compute() not invoked
+s.s.t =  27.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.9
+_compute() not invoked
+s.s.t =  27.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.8
+_compute() not invoked
+s.s.t =  27.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.7
+_compute() not invoked
+s.s.t =  27.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.6
+_compute() not invoked
+s.s.t =  27.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.5
+_compute() not invoked
+s.s.t =  27.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.4
+_compute() not invoked
+s.s.t =  27.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.3
+_compute() not invoked
+s.s.t =  27.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.2
+_compute() not invoked
+s.s.t =  27.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.1
+_compute() not invoked
+s.s.t =  28.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -12.0
+_compute() not invoked
+s.s.t =  28.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.9
+_compute() not invoked
+s.s.t =  28.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.8
+_compute() not invoked
+s.s.t =  28.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.7
+_compute() not invoked
+s.s.t =  28.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.6
+_compute() not invoked
+s.s.t =  28.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.5
+_compute() not invoked
+s.s.t =  28.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.4
+_compute() not invoked
+s.s.t =  28.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.3
+_compute() not invoked
+s.s.t =  28.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.2
+_compute() not invoked
+s.s.t =  28.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.1
+_compute() not invoked
+s.s.t =  29.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -11.0
+_compute() not invoked
+s.s.t =  29.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.9
+_compute() not invoked
+s.s.t =  29.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.8
+_compute() not invoked
+s.s.t =  29.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.7
+_compute() not invoked
+s.s.t =  29.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.6
+_compute() not invoked
+s.s.t =  29.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.5
+_compute() not invoked
+s.s.t =  29.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.4
+_compute() not invoked
+s.s.t =  29.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.3
+_compute() not invoked
+s.s.t =  29.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.2
+_compute() not invoked
+s.s.t =  29.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.1
+_compute() not invoked
+s.s.t =  30.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -10.0
+_compute() not invoked
+s.s.t =  30.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.9
+_compute() not invoked
+s.s.t =  30.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.8
+_compute() not invoked
+s.s.t =  30.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.7
+_compute() not invoked
+s.s.t =  30.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.6
+_compute() not invoked
+s.s.t =  30.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.5
+_compute() not invoked
+s.s.t =  30.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.4
+_compute() not invoked
+s.s.t =  30.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.3
+_compute() not invoked
+s.s.t =  30.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.2
+_compute() not invoked
+s.s.t =  30.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.1
+_compute() not invoked
+s.s.t =  31.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -9.0
+_compute() not invoked
+s.s.t =  31.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.9
+_compute() not invoked
+s.s.t =  31.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.8
+_compute() not invoked
+s.s.t =  31.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.7
+_compute() not invoked
+s.s.t =  31.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.6
+_compute() not invoked
+s.s.t =  31.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.5
+_compute() not invoked
+s.s.t =  31.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.4
+_compute() not invoked
+s.s.t =  31.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.3
+_compute() not invoked
+s.s.t =  31.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.2
+_compute() not invoked
+s.s.t =  31.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.1
+_compute() not invoked
+s.s.t =  32.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -8.0
+_compute() not invoked
+s.s.t =  32.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.9
+_compute() not invoked
+s.s.t =  32.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.8
+_compute() not invoked
+s.s.t =  32.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.7
+_compute() not invoked
+s.s.t =  32.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.6
+_compute() not invoked
+s.s.t =  32.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.5
+_compute() not invoked
+s.s.t =  32.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.4
+_compute() not invoked
+s.s.t =  32.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.3
+_compute() not invoked
+s.s.t =  32.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.2
+_compute() not invoked
+s.s.t =  32.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.1
+_compute() not invoked
+s.s.t =  33.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -7.0
+_compute() not invoked
+s.s.t =  33.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.9
+_compute() not invoked
+s.s.t =  33.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.8
+_compute() not invoked
+s.s.t =  33.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.7
+_compute() not invoked
+s.s.t =  33.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.6
+_compute() not invoked
+s.s.t =  33.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.5
+_compute() not invoked
+s.s.t =  33.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.4
+_compute() not invoked
+s.s.t =  33.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.3
+_compute() not invoked
+s.s.t =  33.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.2
+_compute() not invoked
+s.s.t =  33.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.1
+_compute() not invoked
+s.s.t =  34.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -6.0
+_compute() not invoked
+s.s.t =  34.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.9
+_compute() not invoked
+s.s.t =  34.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.8
+_compute() not invoked
+s.s.t =  34.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.7
+_compute() not invoked
+s.s.t =  34.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.6
+_compute() not invoked
+s.s.t =  34.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.5
+_compute() not invoked
+s.s.t =  34.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.4
+_compute() not invoked
+s.s.t =  34.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.3
+_compute() not invoked
+s.s.t =  34.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.2
+_compute() not invoked
+s.s.t =  34.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.1
+_compute() not invoked
+s.s.t =  35.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -5.0
+_compute() not invoked
+s.s.t =  35.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.9
+_compute() not invoked
+s.s.t =  35.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.8
+_compute() not invoked
+s.s.t =  35.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.7
+_compute() not invoked
+s.s.t =  35.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.6
+_compute() not invoked
+s.s.t =  35.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.5
+_compute() not invoked
+s.s.t =  35.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.4
+_compute() not invoked
+s.s.t =  35.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.3
+_compute() not invoked
+s.s.t =  35.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.2
+_compute() not invoked
+s.s.t =  35.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.1
+_compute() not invoked
+s.s.t =  36.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -4.0
+_compute() not invoked
+s.s.t =  36.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.9
+_compute() not invoked
+s.s.t =  36.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.8
+_compute() not invoked
+s.s.t =  36.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.7
+_compute() not invoked
+s.s.t =  36.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.6
+_compute() not invoked
+s.s.t =  36.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.5
+_compute() not invoked
+s.s.t =  36.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.4
+_compute() not invoked
+s.s.t =  36.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.3
+_compute() not invoked
+s.s.t =  36.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.2
+_compute() not invoked
+s.s.t =  36.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.1
+_compute() not invoked
+s.s.t =  37.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -3.0
+_compute() not invoked
+s.s.t =  37.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.9
+_compute() not invoked
+s.s.t =  37.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.8
+_compute() not invoked
+s.s.t =  37.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.7
+_compute() not invoked
+s.s.t =  37.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.6
+_compute() not invoked
+s.s.t =  37.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.5
+_compute() not invoked
+s.s.t =  37.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.4
+_compute() not invoked
+s.s.t =  37.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.3
+_compute() not invoked
+s.s.t =  37.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.2
+_compute() not invoked
+s.s.t =  37.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.1
+_compute() not invoked
+s.s.t =  38.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -2.0
+_compute() not invoked
+s.s.t =  38.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.9
+_compute() not invoked
+s.s.t =  38.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.8
+_compute() not invoked
+s.s.t =  38.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.7
+_compute() not invoked
+s.s.t =  38.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.6
+_compute() not invoked
+s.s.t =  38.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.5
+_compute() not invoked
+s.s.t =  38.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.4
+_compute() not invoked
+s.s.t =  38.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.3
+_compute() not invoked
+s.s.t =  38.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.2
+_compute() not invoked
+s.s.t =  38.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.1
+_compute() not invoked
+s.s.t =  39.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -1.0
+_compute() not invoked
+s.s.t =  39.1 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.9
+_compute() not invoked
+s.s.t =  39.2 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.8
+_compute() not invoked
+s.s.t =  39.3 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.7
+_compute() not invoked
+s.s.t =  39.4 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.6
+_compute() not invoked
+s.s.t =  39.5 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.5
+_compute() not invoked
+s.s.t =  39.6 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.4
+_compute() not invoked
+s.s.t =  39.7 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.3
+_compute() not invoked
+s.s.t =  39.8 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.2
+_compute() not invoked
+s.s.t =  39.9 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  -0.1
+_compute() not invoked
+s.s.t =  40.0 	self.i =  0 	self.time[i]*1e3 =  40.0 	diff =  0.0
+s.s.t =  40.1 	self.i =  1 	self.time[i]*1e3 =  40.1 	diff =  0.0
+s.s.t =  40.2 	self.i =  2 	self.time[i]*1e3 =  40.2 	diff =  -1.42108547152e-14
+s.s.t =  40.3 	self.i =  3 	self.time[i]*1e3 =  40.3 	diff =  -7.1054273576e-15
+s.s.t =  40.4 	self.i =  4 	self.time[i]*1e3 =  40.4 	diff =  -7.1054273576e-15
+s.s.t =  40.5 	self.i =  5 	self.time[i]*1e3 =  40.5 	diff =  -1.42108547152e-14
+s.s.t =  40.6 	self.i =  6 	self.time[i]*1e3 =  40.6 	diff =  -1.42108547152e-14
+s.s.t =  40.7 	self.i =  7 	self.time[i]*1e3 =  40.7 	diff =  -2.84217094304e-14
+s.s.t =  40.8 	self.i =  8 	self.time[i]*1e3 =  40.8 	diff =  -2.13162820728e-14
+s.s.t =  40.9 	self.i =  9 	self.time[i]*1e3 =  40.9 	diff =  -2.84217094304e-14
+s.s.t =  41.0 	self.i =  10 	self.time[i]*1e3 =  41.0 	diff =  -2.84217094304e-14
+s.s.t =  41.1 	self.i =  11 	self.time[i]*1e3 =  41.1 	diff =  -2.84217094304e-14
+s.s.t =  41.2 	self.i =  12 	self.time[i]*1e3 =  41.2 	diff =  -3.5527136788e-14
+s.s.t =  41.3 	self.i =  13 	self.time[i]*1e3 =  41.3 	diff =  -3.5527136788e-14
+s.s.t =  41.4 	self.i =  14 	self.time[i]*1e3 =  41.4 	diff =  -4.26325641456e-14
+s.s.t =  41.5 	self.i =  15 	self.time[i]*1e3 =  41.5 	diff =  -4.26325641456e-14
+s.s.t =  41.6 	self.i =  16 	self.time[i]*1e3 =  41.6 	diff =  -4.26325641456e-14
+s.s.t =  41.7 	self.i =  17 	self.time[i]*1e3 =  41.7 	diff =  -4.97379915032e-14
+s.s.t =  41.8 	self.i =  18 	self.time[i]*1e3 =  41.8 	diff =  -4.97379915032e-14
+s.s.t =  41.9 	self.i =  19 	self.time[i]*1e3 =  41.9 	diff =  -5.68434188608e-14
+s.s.t =  42.0 	self.i =  20 	self.time[i]*1e3 =  42.0 	diff =  -5.68434188608e-14
+s.s.t =  42.1 	self.i =  21 	self.time[i]*1e3 =  42.1 	diff =  -5.68434188608e-14
+s.s.t =  42.2 	self.i =  22 	self.time[i]*1e3 =  42.2 	diff =  -6.39488462184e-14
+s.s.t =  42.3 	self.i =  23 	self.time[i]*1e3 =  42.3 	diff =  -6.39488462184e-14
+s.s.t =  42.4 	self.i =  24 	self.time[i]*1e3 =  42.4 	diff =  -7.1054273576e-14
+s.s.t =  42.5 	self.i =  25 	self.time[i]*1e3 =  42.5 	diff =  -7.1054273576e-14
+s.s.t =  42.6 	self.i =  26 	self.time[i]*1e3 =  42.6 	diff =  -7.1054273576e-14
+s.s.t =  42.7 	self.i =  27 	self.time[i]*1e3 =  42.7 	diff =  -7.81597009336e-14
+s.s.t =  42.8 	self.i =  28 	self.time[i]*1e3 =  42.8 	diff =  -7.81597009336e-14
+s.s.t =  42.9 	self.i =  29 	self.time[i]*1e3 =  42.9 	diff =  -8.52651282912e-14
+s.s.t =  43.0 	self.i =  30 	self.time[i]*1e3 =  43.0 	diff =  -8.52651282912e-14
+s.s.t =  43.1 	self.i =  31 	self.time[i]*1e3 =  43.1 	diff =  -8.52651282912e-14
+s.s.t =  43.2 	self.i =  32 	self.time[i]*1e3 =  43.2 	diff =  -9.23705556488e-14
+s.s.t =  43.3 	self.i =  33 	self.time[i]*1e3 =  43.3 	diff =  -9.23705556488e-14
+s.s.t =  43.4 	self.i =  34 	self.time[i]*1e3 =  43.4 	diff =  -9.94759830064e-14
+s.s.t =  43.5 	self.i =  35 	self.time[i]*1e3 =  43.5 	diff =  -9.94759830064e-14
+s.s.t =  43.6 	self.i =  36 	self.time[i]*1e3 =  43.6 	diff =  -9.94759830064e-14
+s.s.t =  43.7 	self.i =  37 	self.time[i]*1e3 =  43.7 	diff =  -1.06581410364e-13
+s.s.t =  43.8 	self.i =  38 	self.time[i]*1e3 =  43.8 	diff =  -1.13686837722e-13
+s.s.t =  43.9 	self.i =  39 	self.time[i]*1e3 =  43.9 	diff =  -1.13686837722e-13
+s.s.t =  44.0 	self.i =  40 	self.time[i]*1e3 =  44.0 	diff =  -1.13686837722e-13
+s.s.t =  44.1 	self.i =  41 	self.time[i]*1e3 =  44.1 	diff =  -1.13686837722e-13
+s.s.t =  44.2 	self.i =  42 	self.time[i]*1e3 =  44.2 	diff =  -1.20792265079e-13
+s.s.t =  44.3 	self.i =  43 	self.time[i]*1e3 =  44.3 	diff =  -1.27897692437e-13
+s.s.t =  44.4 	self.i =  44 	self.time[i]*1e3 =  44.4 	diff =  -1.27897692437e-13
+s.s.t =  44.5 	self.i =  45 	self.time[i]*1e3 =  44.5 	diff =  -1.20792265079e-13
+s.s.t =  44.6 	self.i =  46 	self.time[i]*1e3 =  44.6 	diff =  -1.27897692437e-13
+s.s.t =  44.7 	self.i =  47 	self.time[i]*1e3 =  44.7 	diff =  -1.35003119794e-13
+s.s.t =  44.8 	self.i =  48 	self.time[i]*1e3 =  44.8 	diff =  -1.42108547152e-13
+s.s.t =  44.9 	self.i =  49 	self.time[i]*1e3 =  44.9 	diff =  -1.42108547152e-13
+s.s.t =  45.0 	self.i =  50 	self.time[i]*1e3 =  45.0 	diff =  -1.35003119794e-13
+s.s.t =  45.1 	self.i =  51 	self.time[i]*1e3 =  45.1 	diff =  -1.42108547152e-13
+s.s.t =  45.2 	self.i =  52 	self.time[i]*1e3 =  45.2 	diff =  -1.4921397451e-13
+s.s.t =  45.3 	self.i =  53 	self.time[i]*1e3 =  45.3 	diff =  -1.56319401867e-13
+s.s.t =  45.4 	self.i =  54 	self.time[i]*1e3 =  45.4 	diff =  -1.56319401867e-13
+s.s.t =  45.5 	self.i =  55 	self.time[i]*1e3 =  45.5 	diff =  -1.56319401867e-13
+s.s.t =  45.6 	self.i =  56 	self.time[i]*1e3 =  45.6 	diff =  -1.56319401867e-13
+s.s.t =  45.7 	self.i =  57 	self.time[i]*1e3 =  45.7 	diff =  -1.63424829225e-13
+s.s.t =  45.8 	self.i =  58 	self.time[i]*1e3 =  45.8 	diff =  -1.70530256582e-13
+s.s.t =  45.9 	self.i =  59 	self.time[i]*1e3 =  45.9 	diff =  -1.63424829225e-13
+s.s.t =  46.0 	self.i =  60 	self.time[i]*1e3 =  46.0 	diff =  -1.70530256582e-13
+s.s.t =  46.1 	self.i =  61 	self.time[i]*1e3 =  46.1 	diff =  -1.7763568394e-13
+s.s.t =  46.2 	self.i =  62 	self.time[i]*1e3 =  46.2 	diff =  -1.7763568394e-13
+s.s.t =  46.3 	self.i =  63 	self.time[i]*1e3 =  46.3 	diff =  -1.84741111298e-13
+s.s.t =  46.4 	self.i =  64 	self.time[i]*1e3 =  46.4 	diff =  -1.7763568394e-13
+s.s.t =  46.5 	self.i =  65 	self.time[i]*1e3 =  46.5 	diff =  -1.84741111298e-13
+s.s.t =  46.6 	self.i =  66 	self.time[i]*1e3 =  46.6 	diff =  -1.91846538655e-13
+s.s.t =  46.7 	self.i =  67 	self.time[i]*1e3 =  46.7 	diff =  -1.91846538655e-13
+s.s.t =  46.8 	self.i =  68 	self.time[i]*1e3 =  46.8 	diff =  -1.98951966013e-13
+s.s.t =  46.9 	self.i =  69 	self.time[i]*1e3 =  46.9 	diff =  -1.91846538655e-13
+s.s.t =  47.0 	self.i =  70 	self.time[i]*1e3 =  47.0 	diff =  -1.98951966013e-13
+s.s.t =  47.1 	self.i =  71 	self.time[i]*1e3 =  47.1 	diff =  -2.0605739337e-13
+s.s.t =  47.2 	self.i =  72 	self.time[i]*1e3 =  47.2 	diff =  -2.13162820728e-13
+s.s.t =  47.3 	self.i =  73 	self.time[i]*1e3 =  47.3 	diff =  -2.0605739337e-13
+s.s.t =  47.4 	self.i =  74 	self.time[i]*1e3 =  47.4 	diff =  -2.0605739337e-13
+s.s.t =  47.5 	self.i =  75 	self.time[i]*1e3 =  47.5 	diff =  -2.13162820728e-13
+s.s.t =  47.6 	self.i =  76 	self.time[i]*1e3 =  47.6 	diff =  -2.20268248086e-13
+s.s.t =  47.7 	self.i =  77 	self.time[i]*1e3 =  47.7 	diff =  -2.27373675443e-13
+s.s.t =  47.8 	self.i =  78 	self.time[i]*1e3 =  47.8 	diff =  -2.20268248086e-13
+s.s.t =  47.9 	self.i =  79 	self.time[i]*1e3 =  47.9 	diff =  -2.20268248086e-13
+s.s.t =  48.0 	self.i =  80 	self.time[i]*1e3 =  48.0 	diff =  -2.27373675443e-13
+s.s.t =  48.1 	self.i =  81 	self.time[i]*1e3 =  48.1 	diff =  -2.34479102801e-13
+s.s.t =  48.2 	self.i =  82 	self.time[i]*1e3 =  48.2 	diff =  -2.41584530158e-13
+s.s.t =  48.3 	self.i =  83 	self.time[i]*1e3 =  48.3 	diff =  -2.34479102801e-13
+s.s.t =  48.4 	self.i =  84 	self.time[i]*1e3 =  48.4 	diff =  -2.34479102801e-13
+s.s.t =  48.5 	self.i =  85 	self.time[i]*1e3 =  48.5 	diff =  -2.41584530158e-13
+s.s.t =  48.6 	self.i =  86 	self.time[i]*1e3 =  48.6 	diff =  -2.48689957516e-13
+s.s.t =  48.7 	self.i =  87 	self.time[i]*1e3 =  48.7 	diff =  -2.55795384874e-13
+s.s.t =  48.8 	self.i =  88 	self.time[i]*1e3 =  48.8 	diff =  -2.48689957516e-13
+s.s.t =  48.9 	self.i =  89 	self.time[i]*1e3 =  48.9 	diff =  -2.55795384874e-13
+s.s.t =  49.0 	self.i =  90 	self.time[i]*1e3 =  49.0 	diff =  -2.55795384874e-13
+s.s.t =  49.1 	self.i =  91 	self.time[i]*1e3 =  49.1 	diff =  -2.62900812231e-13
+s.s.t =  49.2 	self.i =  92 	self.time[i]*1e3 =  49.2 	diff =  -2.62900812231e-13
+s.s.t =  49.3 	self.i =  93 	self.time[i]*1e3 =  49.3 	diff =  -2.62900812231e-13
+s.s.t =  49.4 	self.i =  94 	self.time[i]*1e3 =  49.4 	diff =  -2.70006239589e-13
+s.s.t =  49.5 	self.i =  95 	self.time[i]*1e3 =  49.5 	diff =  -2.70006239589e-13
+s.s.t =  49.6 	self.i =  96 	self.time[i]*1e3 =  49.6 	diff =  -2.77111666946e-13
+s.s.t =  49.7 	self.i =  97 	self.time[i]*1e3 =  49.7 	diff =  -2.77111666946e-13
+s.s.t =  49.8 	self.i =  98 	self.time[i]*1e3 =  49.8 	diff =  -2.77111666946e-13
+s.s.t =  49.9 	self.i =  99 	self.time[i]*1e3 =  49.9 	diff =  -2.84217094304e-13
+s.s.t =  50.0 	self.i =  100 	self.time[i]*1e3 =  50.0 	diff =  -2.84217094304e-13
+s.s.t =  50.1 	self.i =  101 	self.time[i]*1e3 =  50.1 	diff =  -2.91322521662e-13
+s.s.t =  50.2 	self.i =  102 	self.time[i]*1e3 =  50.2 	diff =  -2.91322521662e-13
+s.s.t =  50.3 	self.i =  103 	self.time[i]*1e3 =  50.3 	diff =  -2.91322521662e-13
+s.s.t =  50.4 	self.i =  104 	self.time[i]*1e3 =  50.4 	diff =  -2.98427949019e-13
+s.s.t =  50.5 	self.i =  105 	self.time[i]*1e3 =  50.5 	diff =  -2.98427949019e-13
+s.s.t =  50.6 	self.i =  106 	self.time[i]*1e3 =  50.6 	diff =  -3.05533376377e-13
+s.s.t =  50.7 	self.i =  107 	self.time[i]*1e3 =  50.7 	diff =  -3.05533376377e-13
+s.s.t =  50.8 	self.i =  108 	self.time[i]*1e3 =  50.8 	diff =  -3.05533376377e-13
+s.s.t =  50.9 	self.i =  109 	self.time[i]*1e3 =  50.9 	diff =  -3.12638803734e-13
+s.s.t =  51.0 	self.i =  110 	self.time[i]*1e3 =  51.0 	diff =  -3.12638803734e-13
+s.s.t =  51.1 	self.i =  111 	self.time[i]*1e3 =  51.1 	diff =  -3.19744231092e-13
+s.s.t =  51.2 	self.i =  112 	self.time[i]*1e3 =  51.2 	diff =  -3.19744231092e-13
+s.s.t =  51.3 	self.i =  113 	self.time[i]*1e3 =  51.3 	diff =  -3.19744231092e-13
+s.s.t =  51.4 	self.i =  114 	self.time[i]*1e3 =  51.4 	diff =  -3.2684965845e-13
+s.s.t =  51.5 	self.i =  115 	self.time[i]*1e3 =  51.5 	diff =  -3.2684965845e-13
+s.s.t =  51.6 	self.i =  116 	self.time[i]*1e3 =  51.6 	diff =  -3.33955085807e-13
+s.s.t =  51.7 	self.i =  117 	self.time[i]*1e3 =  51.7 	diff =  -3.33955085807e-13
+s.s.t =  51.8 	self.i =  118 	self.time[i]*1e3 =  51.8 	diff =  -3.33955085807e-13
+s.s.t =  51.9 	self.i =  119 	self.time[i]*1e3 =  51.9 	diff =  -3.41060513165e-13
+s.s.t =  52.0 	self.i =  120 	self.time[i]*1e3 =  52.0 	diff =  -3.41060513165e-13
+s.s.t =  52.1 	self.i =  121 	self.time[i]*1e3 =  52.1 	diff =  -3.48165940522e-13
+s.s.t =  52.2 	self.i =  122 	self.time[i]*1e3 =  52.2 	diff =  -3.48165940522e-13
+s.s.t =  52.3 	self.i =  123 	self.time[i]*1e3 =  52.3 	diff =  -3.5527136788e-13
+s.s.t =  52.4 	self.i =  124 	self.time[i]*1e3 =  52.4 	diff =  -3.5527136788e-13
+s.s.t =  52.5 	self.i =  125 	self.time[i]*1e3 =  52.5 	diff =  -3.5527136788e-13
+s.s.t =  52.6 	self.i =  126 	self.time[i]*1e3 =  52.6 	diff =  -3.62376795238e-13
+s.s.t =  52.7 	self.i =  127 	self.time[i]*1e3 =  52.7 	diff =  -3.62376795238e-13
+s.s.t =  52.8 	self.i =  128 	self.time[i]*1e3 =  52.8 	diff =  -3.69482222595e-13
+s.s.t =  52.9 	self.i =  129 	self.time[i]*1e3 =  52.9 	diff =  -3.69482222595e-13
+s.s.t =  53.0 	self.i =  130 	self.time[i]*1e3 =  53.0 	diff =  -3.69482222595e-13
+s.s.t =  53.1 	self.i =  131 	self.time[i]*1e3 =  53.1 	diff =  -3.76587649953e-13
+s.s.t =  53.2 	self.i =  132 	self.time[i]*1e3 =  53.2 	diff =  -3.76587649953e-13
+s.s.t =  53.3 	self.i =  133 	self.time[i]*1e3 =  53.3 	diff =  -3.8369307731e-13
+s.s.t =  53.4 	self.i =  134 	self.time[i]*1e3 =  53.4 	diff =  -3.8369307731e-13
+s.s.t =  53.5 	self.i =  135 	self.time[i]*1e3 =  53.5 	diff =  -3.8369307731e-13
+s.s.t =  53.6 	self.i =  136 	self.time[i]*1e3 =  53.6 	diff =  -3.90798504668e-13
+s.s.t =  53.7 	self.i =  137 	self.time[i]*1e3 =  53.7 	diff =  -3.90798504668e-13
+s.s.t =  53.8 	self.i =  138 	self.time[i]*1e3 =  53.8 	diff =  -3.97903932026e-13
+s.s.t =  53.9 	self.i =  139 	self.time[i]*1e3 =  53.9 	diff =  -3.90798504668e-13
+s.s.t =  54.0 	self.i =  140 	self.time[i]*1e3 =  54.0 	diff =  -4.05009359383e-13
+s.s.t =  54.1 	self.i =  141 	self.time[i]*1e3 =  54.1 	diff =  -4.05009359383e-13
+s.s.t =  54.2 	self.i =  142 	self.time[i]*1e3 =  54.2 	diff =  -4.05009359383e-13
+s.s.t =  54.3 	self.i =  143 	self.time[i]*1e3 =  54.3 	diff =  -4.12114786741e-13
+s.s.t =  54.4 	self.i =  144 	self.time[i]*1e3 =  54.4 	diff =  -4.05009359383e-13
+s.s.t =  54.5 	self.i =  145 	self.time[i]*1e3 =  54.5 	diff =  -4.19220214098e-13
+s.s.t =  54.6 	self.i =  146 	self.time[i]*1e3 =  54.6 	diff =  -4.19220214098e-13
+s.s.t =  54.7 	self.i =  147 	self.time[i]*1e3 =  54.7 	diff =  -4.19220214098e-13
+s.s.t =  54.8 	self.i =  148 	self.time[i]*1e3 =  54.8 	diff =  -4.26325641456e-13
+s.s.t =  54.9 	self.i =  149 	self.time[i]*1e3 =  54.9 	diff =  -4.19220214098e-13
+s.s.t =  55.0 	self.i =  150 	self.time[i]*1e3 =  55.0 	diff =  -4.33431068814e-13
+s.s.t =  55.1 	self.i =  151 	self.time[i]*1e3 =  55.1 	diff =  -4.33431068814e-13
+s.s.t =  55.2 	self.i =  152 	self.time[i]*1e3 =  55.2 	diff =  -4.33431068814e-13
+s.s.t =  55.3 	self.i =  153 	self.time[i]*1e3 =  55.3 	diff =  -4.33431068814e-13
+s.s.t =  55.4 	self.i =  154 	self.time[i]*1e3 =  55.4 	diff =  -4.33431068814e-13
+s.s.t =  55.5 	self.i =  155 	self.time[i]*1e3 =  55.5 	diff =  -4.47641923529e-13
+s.s.t =  55.6 	self.i =  156 	self.time[i]*1e3 =  55.6 	diff =  -4.47641923529e-13
+s.s.t =  55.7 	self.i =  157 	self.time[i]*1e3 =  55.7 	diff =  -4.54747350886e-13
+s.s.t =  55.8 	self.i =  158 	self.time[i]*1e3 =  55.8 	diff =  -4.47641923529e-13
+s.s.t =  55.9 	self.i =  159 	self.time[i]*1e3 =  55.9 	diff =  -4.47641923529e-13
+s.s.t =  56.0 	self.i =  160 	self.time[i]*1e3 =  56.0 	diff =  -4.61852778244e-13
+s.s.t =  56.1 	self.i =  161 	self.time[i]*1e3 =  56.1 	diff =  -4.61852778244e-13
+s.s.t =  56.2 	self.i =  162 	self.time[i]*1e3 =  56.2 	diff =  -4.68958205602e-13
+s.s.t =  56.3 	self.i =  163 	self.time[i]*1e3 =  56.3 	diff =  -4.61852778244e-13
+s.s.t =  56.4 	self.i =  164 	self.time[i]*1e3 =  56.4 	diff =  -4.61852778244e-13
+s.s.t =  56.5 	self.i =  165 	self.time[i]*1e3 =  56.5 	diff =  -4.76063632959e-13
+s.s.t =  56.6 	self.i =  166 	self.time[i]*1e3 =  56.6 	diff =  -4.76063632959e-13
+s.s.t =  56.7 	self.i =  167 	self.time[i]*1e3 =  56.7 	diff =  -4.83169060317e-13
+s.s.t =  56.8 	self.i =  168 	self.time[i]*1e3 =  56.8 	diff =  -4.76063632959e-13
+s.s.t =  56.9 	self.i =  169 	self.time[i]*1e3 =  56.9 	diff =  -4.76063632959e-13
+s.s.t =  57.0 	self.i =  170 	self.time[i]*1e3 =  57.0 	diff =  -4.90274487674e-13
+s.s.t =  57.1 	self.i =  171 	self.time[i]*1e3 =  57.1 	diff =  -4.90274487674e-13
+s.s.t =  57.2 	self.i =  172 	self.time[i]*1e3 =  57.2 	diff =  -4.90274487674e-13
+s.s.t =  57.3 	self.i =  173 	self.time[i]*1e3 =  57.3 	diff =  -4.90274487674e-13
+s.s.t =  57.4 	self.i =  174 	self.time[i]*1e3 =  57.4 	diff =  -4.97379915032e-13
+s.s.t =  57.5 	self.i =  175 	self.time[i]*1e3 =  57.5 	diff =  -5.0448534239e-13
+s.s.t =  57.6 	self.i =  176 	self.time[i]*1e3 =  57.6 	diff =  -5.0448534239e-13
+s.s.t =  57.7 	self.i =  177 	self.time[i]*1e3 =  57.7 	diff =  -5.0448534239e-13
+s.s.t =  57.8 	self.i =  178 	self.time[i]*1e3 =  57.8 	diff =  -5.0448534239e-13
+s.s.t =  57.9 	self.i =  179 	self.time[i]*1e3 =  57.9 	diff =  -5.11590769747e-13
+s.s.t =  58.0 	self.i =  180 	self.time[i]*1e3 =  58.0 	diff =  -5.18696197105e-13
+s.s.t =  58.1 	self.i =  181 	self.time[i]*1e3 =  58.1 	diff =  -5.18696197105e-13
+s.s.t =  58.2 	self.i =  182 	self.time[i]*1e3 =  58.2 	diff =  -5.18696197105e-13
+s.s.t =  58.3 	self.i =  183 	self.time[i]*1e3 =  58.3 	diff =  -5.18696197105e-13
+s.s.t =  58.4 	self.i =  184 	self.time[i]*1e3 =  58.4 	diff =  -5.25801624462e-13
+s.s.t =  58.5 	self.i =  185 	self.time[i]*1e3 =  58.5 	diff =  -5.3290705182e-13
+s.s.t =  58.6 	self.i =  186 	self.time[i]*1e3 =  58.6 	diff =  -5.25801624462e-13
+s.s.t =  58.7 	self.i =  187 	self.time[i]*1e3 =  58.7 	diff =  -5.3290705182e-13
+s.s.t =  58.8 	self.i =  188 	self.time[i]*1e3 =  58.8 	diff =  -5.3290705182e-13
+s.s.t =  58.9 	self.i =  189 	self.time[i]*1e3 =  58.9 	diff =  -5.47117906535e-13
+s.s.t =  59.0 	self.i =  190 	self.time[i]*1e3 =  59.0 	diff =  -5.47117906535e-13
+s.s.t =  59.1 	self.i =  191 	self.time[i]*1e3 =  59.1 	diff =  -5.47117906535e-13
+s.s.t =  59.2 	self.i =  192 	self.time[i]*1e3 =  59.2 	diff =  -5.47117906535e-13
+s.s.t =  59.3 	self.i =  193 	self.time[i]*1e3 =  59.3 	diff =  -5.47117906535e-13
+s.s.t =  59.4 	self.i =  194 	self.time[i]*1e3 =  59.4 	diff =  -5.6132876125e-13
+s.s.t =  59.5 	self.i =  195 	self.time[i]*1e3 =  59.5 	diff =  -5.6132876125e-13
+s.s.t =  59.6 	self.i =  196 	self.time[i]*1e3 =  59.6 	diff =  -5.6132876125e-13
+s.s.t =  59.7 	self.i =  197 	self.time[i]*1e3 =  59.7 	diff =  -5.6132876125e-13
+s.s.t =  59.8 	self.i =  198 	self.time[i]*1e3 =  59.8 	diff =  -5.6132876125e-13
+s.s.t =  59.9 	self.i =  199 	self.time[i]*1e3 =  59.9 	diff =  -5.75539615966e-13
+s.s.t =  60.0 	self.i =  200 	self.time[i]*1e3 =  60.0 	diff =  -5.75539615966e-13
+s.s.t =  60.1 	self.i =  201 	self.time[i]*1e3 =  60.1 	diff =  -5.75539615966e-13
+s.s.t =  60.2 	self.i =  202 	self.time[i]*1e3 =  60.2 	diff =  -5.75539615966e-13
+s.s.t =  60.3 	self.i =  203 	self.time[i]*1e3 =  60.3 	diff =  -5.82645043323e-13
+s.s.t =  60.4 	self.i =  204 	self.time[i]*1e3 =  60.4 	diff =  -5.89750470681e-13
+s.s.t =  60.5 	self.i =  205 	self.time[i]*1e3 =  60.5 	diff =  -5.82645043323e-13
+s.s.t =  60.6 	self.i =  206 	self.time[i]*1e3 =  60.6 	diff =  -5.89750470681e-13
+s.s.t =  60.7 	self.i =  207 	self.time[i]*1e3 =  60.7 	diff =  -5.89750470681e-13
+s.s.t =  60.8 	self.i =  208 	self.time[i]*1e3 =  60.8 	diff =  -5.96855898038e-13
+s.s.t =  60.9 	self.i =  209 	self.time[i]*1e3 =  60.9 	diff =  -6.03961325396e-13
+s.s.t =  61.0 	self.i =  210 	self.time[i]*1e3 =  61.0 	diff =  -5.96855898038e-13
+s.s.t =  61.1 	self.i =  211 	self.time[i]*1e3 =  61.1 	diff =  -6.03961325396e-13
+s.s.t =  61.2 	self.i =  212 	self.time[i]*1e3 =  61.2 	diff =  -6.03961325396e-13
+s.s.t =  61.3 	self.i =  213 	self.time[i]*1e3 =  61.3 	diff =  -6.11066752754e-13
+s.s.t =  61.4 	self.i =  214 	self.time[i]*1e3 =  61.4 	diff =  -6.18172180111e-13
+s.s.t =  61.5 	self.i =  215 	self.time[i]*1e3 =  61.5 	diff =  -6.11066752754e-13
+s.s.t =  61.6 	self.i =  216 	self.time[i]*1e3 =  61.6 	diff =  -6.18172180111e-13
+s.s.t =  61.7 	self.i =  217 	self.time[i]*1e3 =  61.7 	diff =  -6.18172180111e-13
+s.s.t =  61.8 	self.i =  218 	self.time[i]*1e3 =  61.8 	diff =  -6.25277607469e-13
+s.s.t =  61.9 	self.i =  219 	self.time[i]*1e3 =  61.9 	diff =  -6.25277607469e-13
+s.s.t =  62.0 	self.i =  220 	self.time[i]*1e3 =  62.0 	diff =  -6.32383034826e-13
+s.s.t =  62.1 	self.i =  221 	self.time[i]*1e3 =  62.1 	diff =  -6.32383034826e-13
+s.s.t =  62.2 	self.i =  222 	self.time[i]*1e3 =  62.2 	diff =  -6.32383034826e-13
+s.s.t =  62.3 	self.i =  223 	self.time[i]*1e3 =  62.3 	diff =  -6.39488462184e-13
+s.s.t =  62.4 	self.i =  224 	self.time[i]*1e3 =  62.4 	diff =  -6.39488462184e-13
+s.s.t =  62.5 	self.i =  225 	self.time[i]*1e3 =  62.5 	diff =  -6.39488462184e-13
+s.s.t =  62.6 	self.i =  226 	self.time[i]*1e3 =  62.6 	diff =  -6.53699316899e-13
+s.s.t =  62.7 	self.i =  227 	self.time[i]*1e3 =  62.7 	diff =  -6.39488462184e-13
+s.s.t =  62.8 	self.i =  228 	self.time[i]*1e3 =  62.8 	diff =  -6.53699316899e-13
+s.s.t =  62.9 	self.i =  229 	self.time[i]*1e3 =  62.9 	diff =  -6.53699316899e-13
+s.s.t =  63.0 	self.i =  230 	self.time[i]*1e3 =  63.0 	diff =  -6.67910171614e-13
+s.s.t =  63.1 	self.i =  231 	self.time[i]*1e3 =  63.1 	diff =  -6.53699316899e-13
+s.s.t =  63.2 	self.i =  232 	self.time[i]*1e3 =  63.2 	diff =  -6.67910171614e-13
+s.s.t =  63.3 	self.i =  233 	self.time[i]*1e3 =  63.3 	diff =  -6.53699316899e-13
+s.s.t =  63.4 	self.i =  234 	self.time[i]*1e3 =  63.4 	diff =  -6.8212102633e-13
+s.s.t =  63.5 	self.i =  235 	self.time[i]*1e3 =  63.5 	diff =  -6.67910171614e-13
+s.s.t =  63.6 	self.i =  236 	self.time[i]*1e3 =  63.6 	diff =  -6.8212102633e-13
+s.s.t =  63.7 	self.i =  237 	self.time[i]*1e3 =  63.7 	diff =  -6.67910171614e-13
+s.s.t =  63.8 	self.i =  238 	self.time[i]*1e3 =  63.8 	diff =  -6.75015598972e-13
+s.s.t =  63.9 	self.i =  239 	self.time[i]*1e3 =  63.9 	diff =  -6.8212102633e-13
+s.s.t =  64.0 	self.i =  240 	self.time[i]*1e3 =  64.0 	diff =  -6.96331881045e-13
+s.s.t =  64.1 	self.i =  241 	self.time[i]*1e3 =  64.1 	diff =  -6.8212102633e-13
+s.s.t =  64.2 	self.i =  242 	self.time[i]*1e3 =  64.2 	diff =  -6.96331881045e-13
+s.s.t =  64.3 	self.i =  243 	self.time[i]*1e3 =  64.3 	diff =  -6.8212102633e-13
+s.s.t =  64.4 	self.i =  244 	self.time[i]*1e3 =  64.4 	diff =  -7.1054273576e-13
+s.s.t =  64.5 	self.i =  245 	self.time[i]*1e3 =  64.5 	diff =  -6.96331881045e-13
+s.s.t =  64.6 	self.i =  246 	self.time[i]*1e3 =  64.6 	diff =  -7.1054273576e-13
+s.s.t =  64.7 	self.i =  247 	self.time[i]*1e3 =  64.7 	diff =  -6.96331881045e-13
+s.s.t =  64.8 	self.i =  248 	self.time[i]*1e3 =  64.8 	diff =  -7.24753590475e-13
+s.s.t =  64.9 	self.i =  249 	self.time[i]*1e3 =  64.9 	diff =  -7.1054273576e-13
+s.s.t =  65.0 	self.i =  250 	self.time[i]*1e3 =  65.0 	diff =  -7.24753590475e-13
+s.s.t =  65.1 	self.i =  251 	self.time[i]*1e3 =  65.1 	diff =  -7.1054273576e-13
+s.s.t =  65.2 	self.i =  252 	self.time[i]*1e3 =  65.2 	diff =  -7.24753590475e-13
+s.s.t =  65.3 	self.i =  253 	self.time[i]*1e3 =  65.3 	diff =  -7.24753590475e-13
+s.s.t =  65.4 	self.i =  254 	self.time[i]*1e3 =  65.4 	diff =  -7.38964445191e-13
+s.s.t =  65.5 	self.i =  255 	self.time[i]*1e3 =  65.5 	diff =  -7.24753590475e-13
+s.s.t =  65.6 	self.i =  256 	self.time[i]*1e3 =  65.6 	diff =  -7.38964445191e-13
+s.s.t =  65.7 	self.i =  257 	self.time[i]*1e3 =  65.7 	diff =  -7.24753590475e-13
+s.s.t =  65.8 	self.i =  258 	self.time[i]*1e3 =  65.8 	diff =  -7.53175299906e-13
+s.s.t =  65.9 	self.i =  259 	self.time[i]*1e3 =  65.9 	diff =  -7.24753590475e-13
+s.s.t =  66.0 	self.i =  260 	self.time[i]*1e3 =  66.0 	diff =  -7.53175299906e-13
+s.s.t =  66.1 	self.i =  261 	self.time[i]*1e3 =  66.1 	diff =  -7.38964445191e-13
+s.s.t =  66.2 	self.i =  262 	self.time[i]*1e3 =  66.2 	diff =  -7.53175299906e-13
+s.s.t =  66.3 	self.i =  263 	self.time[i]*1e3 =  66.3 	diff =  -7.53175299906e-13
+s.s.t =  66.4 	self.i =  264 	self.time[i]*1e3 =  66.4 	diff =  -7.53175299906e-13
+s.s.t =  66.5 	self.i =  265 	self.time[i]*1e3 =  66.5 	diff =  -7.53175299906e-13
+s.s.t =  66.6 	self.i =  266 	self.time[i]*1e3 =  66.6 	diff =  -7.67386154621e-13
+s.s.t =  66.7 	self.i =  267 	self.time[i]*1e3 =  66.7 	diff =  -7.53175299906e-13
+s.s.t =  66.8 	self.i =  268 	self.time[i]*1e3 =  66.8 	diff =  -7.81597009336e-13
+s.s.t =  66.9 	self.i =  269 	self.time[i]*1e3 =  66.9 	diff =  -7.53175299906e-13
+s.s.t =  67.0 	self.i =  270 	self.time[i]*1e3 =  67.0 	diff =  -7.81597009336e-13
+s.s.t =  67.1 	self.i =  271 	self.time[i]*1e3 =  67.1 	diff =  -7.67386154621e-13
+s.s.t =  67.2 	self.i =  272 	self.time[i]*1e3 =  67.2 	diff =  -7.81597009336e-13
+s.s.t =  67.3 	self.i =  273 	self.time[i]*1e3 =  67.3 	diff =  -7.81597009336e-13
+s.s.t =  67.4 	self.i =  274 	self.time[i]*1e3 =  67.4 	diff =  -7.81597009336e-13
+s.s.t =  67.5 	self.i =  275 	self.time[i]*1e3 =  67.5 	diff =  -7.81597009336e-13
+s.s.t =  67.6 	self.i =  276 	self.time[i]*1e3 =  67.6 	diff =  -7.95807864051e-13
+s.s.t =  67.7 	self.i =  277 	self.time[i]*1e3 =  67.7 	diff =  -7.81597009336e-13
+s.s.t =  67.8 	self.i =  278 	self.time[i]*1e3 =  67.8 	diff =  -8.10018718767e-13
+s.s.t =  67.9 	self.i =  279 	self.time[i]*1e3 =  67.9 	diff =  -7.81597009336e-13
+s.s.t =  68.0 	self.i =  280 	self.time[i]*1e3 =  68.0 	diff =  -8.10018718767e-13
+s.s.t =  68.1 	self.i =  281 	self.time[i]*1e3 =  68.1 	diff =  -7.95807864051e-13
+s.s.t =  68.2 	self.i =  282 	self.time[i]*1e3 =  68.2 	diff =  -8.24229573482e-13
+s.s.t =  68.3 	self.i =  283 	self.time[i]*1e3 =  68.3 	diff =  -8.10018718767e-13
+s.s.t =  68.4 	self.i =  284 	self.time[i]*1e3 =  68.4 	diff =  -8.10018718767e-13
+s.s.t =  68.5 	self.i =  285 	self.time[i]*1e3 =  68.5 	diff =  -8.10018718767e-13
+s.s.t =  68.6 	self.i =  286 	self.time[i]*1e3 =  68.6 	diff =  -8.24229573482e-13
+s.s.t =  68.7 	self.i =  287 	self.time[i]*1e3 =  68.7 	diff =  -8.10018718767e-13
+s.s.t =  68.8 	self.i =  288 	self.time[i]*1e3 =  68.8 	diff =  -8.38440428197e-13
+s.s.t =  68.9 	self.i =  289 	self.time[i]*1e3 =  68.9 	diff =  -8.10018718767e-13
+s.s.t =  69.0 	self.i =  290 	self.time[i]*1e3 =  69.0 	diff =  -8.38440428197e-13
+s.s.t =  69.1 	self.i =  291 	self.time[i]*1e3 =  69.1 	diff =  -8.24229573482e-13
+s.s.t =  69.2 	self.i =  292 	self.time[i]*1e3 =  69.2 	diff =  -8.38440428197e-13
+s.s.t =  69.3 	self.i =  293 	self.time[i]*1e3 =  69.3 	diff =  -8.38440428197e-13
+s.s.t =  69.4 	self.i =  294 	self.time[i]*1e3 =  69.4 	diff =  -8.38440428197e-13
+s.s.t =  69.5 	self.i =  295 	self.time[i]*1e3 =  69.5 	diff =  -8.38440428197e-13
+s.s.t =  69.6 	self.i =  296 	self.time[i]*1e3 =  69.6 	diff =  -8.52651282912e-13
+s.s.t =  69.7 	self.i =  297 	self.time[i]*1e3 =  69.7 	diff =  -8.38440428197e-13
+s.s.t =  69.8 	self.i =  298 	self.time[i]*1e3 =  69.8 	diff =  -8.66862137627e-13
+s.s.t =  69.9 	self.i =  299 	self.time[i]*1e3 =  69.9 	diff =  -8.38440428197e-13
+s.s.t =  70.0 	self.i =  300 	self.time[i]*1e3 =  70.0 	diff =  -8.66862137627e-13
+s.s.t =  70.1 	self.i =  301 	self.time[i]*1e3 =  70.1 	diff =  -8.52651282912e-13
+s.s.t =  70.2 	self.i =  302 	self.time[i]*1e3 =  70.2 	diff =  -8.66862137627e-13
+s.s.t =  70.3 	self.i =  303 	self.time[i]*1e3 =  70.3 	diff =  -8.66862137627e-13
+s.s.t =  70.4 	self.i =  304 	self.time[i]*1e3 =  70.4 	diff =  -8.66862137627e-13
+s.s.t =  70.5 	self.i =  305 	self.time[i]*1e3 =  70.5 	diff =  -8.66862137627e-13
+s.s.t =  70.6 	self.i =  306 	self.time[i]*1e3 =  70.6 	diff =  -8.81072992343e-13
+s.s.t =  70.7 	self.i =  307 	self.time[i]*1e3 =  70.7 	diff =  -8.66862137627e-13
+s.s.t =  70.8 	self.i =  308 	self.time[i]*1e3 =  70.8 	diff =  -8.95283847058e-13
+s.s.t =  70.9 	self.i =  309 	self.time[i]*1e3 =  70.9 	diff =  -8.66862137627e-13
+s.s.t =  71.0 	self.i =  310 	self.time[i]*1e3 =  71.0 	diff =  -8.95283847058e-13
+s.s.t =  71.1 	self.i =  311 	self.time[i]*1e3 =  71.1 	diff =  -8.95283847058e-13
+s.s.t =  71.2 	self.i =  312 	self.time[i]*1e3 =  71.2 	diff =  -8.95283847058e-13
+s.s.t =  71.3 	self.i =  313 	self.time[i]*1e3 =  71.3 	diff =  -8.95283847058e-13
+s.s.t =  71.4 	self.i =  314 	self.time[i]*1e3 =  71.4 	diff =  -8.95283847058e-13
+s.s.t =  71.5 	self.i =  315 	self.time[i]*1e3 =  71.5 	diff =  -8.95283847058e-13
+s.s.t =  71.6 	self.i =  316 	self.time[i]*1e3 =  71.6 	diff =  -9.23705556488e-13
+s.s.t =  71.7 	self.i =  317 	self.time[i]*1e3 =  71.7 	diff =  -8.95283847058e-13
+s.s.t =  71.8 	self.i =  318 	self.time[i]*1e3 =  71.8 	diff =  -9.23705556488e-13
+s.s.t =  71.9 	self.i =  319 	self.time[i]*1e3 =  71.9 	diff =  -8.95283847058e-13
+s.s.t =  72.0 	self.i =  320 	self.time[i]*1e3 =  72.0 	diff =  -9.23705556488e-13
+s.s.t =  72.1 	self.i =  321 	self.time[i]*1e3 =  72.1 	diff =  -9.23705556488e-13
+s.s.t =  72.2 	self.i =  322 	self.time[i]*1e3 =  72.2 	diff =  -9.23705556488e-13
+s.s.t =  72.3 	self.i =  323 	self.time[i]*1e3 =  72.3 	diff =  -9.23705556488e-13
+s.s.t =  72.4 	self.i =  324 	self.time[i]*1e3 =  72.4 	diff =  -9.23705556488e-13
+s.s.t =  72.5 	self.i =  325 	self.time[i]*1e3 =  72.5 	diff =  -9.09494701773e-13
+s.s.t =  72.6 	self.i =  326 	self.time[i]*1e3 =  72.6 	diff =  -9.52127265919e-13
+s.s.t =  72.7 	self.i =  327 	self.time[i]*1e3 =  72.7 	diff =  -9.23705556488e-13
+s.s.t =  72.8 	self.i =  328 	self.time[i]*1e3 =  72.8 	diff =  -9.52127265919e-13
+s.s.t =  72.9 	self.i =  329 	self.time[i]*1e3 =  72.9 	diff =  -9.23705556488e-13
+s.s.t =  73.0 	self.i =  330 	self.time[i]*1e3 =  73.0 	diff =  -9.37916411203e-13
+s.s.t =  73.1 	self.i =  331 	self.time[i]*1e3 =  73.1 	diff =  -9.52127265919e-13
+s.s.t =  73.2 	self.i =  332 	self.time[i]*1e3 =  73.2 	diff =  -9.52127265919e-13
+s.s.t =  73.3 	self.i =  333 	self.time[i]*1e3 =  73.3 	diff =  -9.52127265919e-13
+s.s.t =  73.4 	self.i =  334 	self.time[i]*1e3 =  73.4 	diff =  -9.52127265919e-13
+s.s.t =  73.5 	self.i =  335 	self.time[i]*1e3 =  73.5 	diff =  -9.37916411203e-13
+s.s.t =  73.6 	self.i =  336 	self.time[i]*1e3 =  73.6 	diff =  -9.80548975349e-13
+s.s.t =  73.7 	self.i =  337 	self.time[i]*1e3 =  73.7 	diff =  -9.52127265919e-13
+s.s.t =  73.8 	self.i =  338 	self.time[i]*1e3 =  73.8 	diff =  -9.80548975349e-13
+s.s.t =  73.9 	self.i =  339 	self.time[i]*1e3 =  73.9 	diff =  -9.66338120634e-13
+s.s.t =  74.0 	self.i =  340 	self.time[i]*1e3 =  74.0 	diff =  -9.66338120634e-13
+s.s.t =  74.1 	self.i =  341 	self.time[i]*1e3 =  74.1 	diff =  -9.80548975349e-13
+s.s.t =  74.2 	self.i =  342 	self.time[i]*1e3 =  74.2 	diff =  -9.80548975349e-13
+s.s.t =  74.3 	self.i =  343 	self.time[i]*1e3 =  74.3 	diff =  -9.80548975349e-13
+s.s.t =  74.4 	self.i =  344 	self.time[i]*1e3 =  74.4 	diff =  -9.80548975349e-13
+s.s.t =  74.5 	self.i =  345 	self.time[i]*1e3 =  74.5 	diff =  -9.80548975349e-13
+s.s.t =  74.6 	self.i =  346 	self.time[i]*1e3 =  74.6 	diff =  -1.00897068478e-12
+s.s.t =  74.7 	self.i =  347 	self.time[i]*1e3 =  74.7 	diff =  -9.80548975349e-13
+s.s.t =  74.8 	self.i =  348 	self.time[i]*1e3 =  74.8 	diff =  -1.00897068478e-12
+s.s.t =  74.9 	self.i =  349 	self.time[i]*1e3 =  74.9 	diff =  -9.94759830064e-13
+s.s.t =  75.0 	self.i =  350 	self.time[i]*1e3 =  75.0 	diff =  -1.00897068478e-12
+s.s.t =  75.1 	self.i =  351 	self.time[i]*1e3 =  75.1 	diff =  -1.00897068478e-12
+s.s.t =  75.2 	self.i =  352 	self.time[i]*1e3 =  75.2 	diff =  -1.00897068478e-12
+s.s.t =  75.3 	self.i =  353 	self.time[i]*1e3 =  75.3 	diff =  -1.00897068478e-12
+s.s.t =  75.4 	self.i =  354 	self.time[i]*1e3 =  75.4 	diff =  -1.02318153949e-12
+s.s.t =  75.5 	self.i =  355 	self.time[i]*1e3 =  75.5 	diff =  -1.00897068478e-12
+s.s.t =  75.6 	self.i =  356 	self.time[i]*1e3 =  75.6 	diff =  -1.03739239421e-12
+s.s.t =  75.7 	self.i =  357 	self.time[i]*1e3 =  75.7 	diff =  -1.00897068478e-12
+s.s.t =  75.8 	self.i =  358 	self.time[i]*1e3 =  75.8 	diff =  -1.02318153949e-12
+s.s.t =  75.9 	self.i =  359 	self.time[i]*1e3 =  75.9 	diff =  -1.02318153949e-12
+s.s.t =  76.0 	self.i =  360 	self.time[i]*1e3 =  76.0 	diff =  -1.03739239421e-12
+s.s.t =  76.1 	self.i =  361 	self.time[i]*1e3 =  76.1 	diff =  -1.03739239421e-12
+s.s.t =  76.2 	self.i =  362 	self.time[i]*1e3 =  76.2 	diff =  -1.03739239421e-12
+s.s.t =  76.3 	self.i =  363 	self.time[i]*1e3 =  76.3 	diff =  -1.02318153949e-12
+s.s.t =  76.4 	self.i =  364 	self.time[i]*1e3 =  76.4 	diff =  -1.05160324892e-12
+s.s.t =  76.5 	self.i =  365 	self.time[i]*1e3 =  76.5 	diff =  -1.03739239421e-12
+s.s.t =  76.6 	self.i =  366 	self.time[i]*1e3 =  76.6 	diff =  -1.06581410364e-12
+s.s.t =  76.7 	self.i =  367 	self.time[i]*1e3 =  76.7 	diff =  -1.03739239421e-12
+s.s.t =  76.8 	self.i =  368 	self.time[i]*1e3 =  76.8 	diff =  -1.05160324892e-12
+s.s.t =  76.9 	self.i =  369 	self.time[i]*1e3 =  76.9 	diff =  -1.05160324892e-12
+s.s.t =  77.0 	self.i =  370 	self.time[i]*1e3 =  77.0 	diff =  -1.06581410364e-12
+s.s.t =  77.1 	self.i =  371 	self.time[i]*1e3 =  77.1 	diff =  -1.06581410364e-12
+s.s.t =  77.2 	self.i =  372 	self.time[i]*1e3 =  77.2 	diff =  -1.06581410364e-12
+s.s.t =  77.3 	self.i =  373 	self.time[i]*1e3 =  77.3 	diff =  -1.05160324892e-12
+s.s.t =  77.4 	self.i =  374 	self.time[i]*1e3 =  77.4 	diff =  -1.08002495836e-12
+s.s.t =  77.5 	self.i =  375 	self.time[i]*1e3 =  77.5 	diff =  -1.06581410364e-12
+s.s.t =  77.6 	self.i =  376 	self.time[i]*1e3 =  77.6 	diff =  -1.09423581307e-12
+s.s.t =  77.7 	self.i =  377 	self.time[i]*1e3 =  77.7 	diff =  -1.06581410364e-12
+s.s.t =  77.8 	self.i =  378 	self.time[i]*1e3 =  77.8 	diff =  -1.08002495836e-12
+s.s.t =  77.9 	self.i =  379 	self.time[i]*1e3 =  77.9 	diff =  -1.09423581307e-12
+s.s.t =  78.0 	self.i =  380 	self.time[i]*1e3 =  78.0 	diff =  -1.09423581307e-12
+s.s.t =  78.1 	self.i =  381 	self.time[i]*1e3 =  78.1 	diff =  -1.09423581307e-12
+s.s.t =  78.2 	self.i =  382 	self.time[i]*1e3 =  78.2 	diff =  -1.09423581307e-12
+s.s.t =  78.3 	self.i =  383 	self.time[i]*1e3 =  78.3 	diff =  -1.08002495836e-12
+s.s.t =  78.4 	self.i =  384 	self.time[i]*1e3 =  78.4 	diff =  -1.1226575225e-12
+s.s.t =  78.5 	self.i =  385 	self.time[i]*1e3 =  78.5 	diff =  -1.09423581307e-12
+s.s.t =  78.6 	self.i =  386 	self.time[i]*1e3 =  78.6 	diff =  -1.10844666779e-12
+s.s.t =  78.7 	self.i =  387 	self.time[i]*1e3 =  78.7 	diff =  -1.09423581307e-12
+s.s.t =  78.8 	self.i =  388 	self.time[i]*1e3 =  78.8 	diff =  -1.10844666779e-12
+s.s.t =  78.9 	self.i =  389 	self.time[i]*1e3 =  78.9 	diff =  -1.1226575225e-12
+s.s.t =  79.0 	self.i =  390 	self.time[i]*1e3 =  79.0 	diff =  -1.1226575225e-12
+s.s.t =  79.1 	self.i =  391 	self.time[i]*1e3 =  79.1 	diff =  -1.10844666779e-12
+s.s.t =  79.2 	self.i =  392 	self.time[i]*1e3 =  79.2 	diff =  -1.1226575225e-12
+s.s.t =  79.3 	self.i =  393 	self.time[i]*1e3 =  79.3 	diff =  -1.10844666779e-12
+s.s.t =  79.4 	self.i =  394 	self.time[i]*1e3 =  79.4 	diff =  -1.15107923193e-12
+s.s.t =  79.5 	self.i =  395 	self.time[i]*1e3 =  79.5 	diff =  -1.1226575225e-12
+s.s.t =  79.6 	self.i =  396 	self.time[i]*1e3 =  79.6 	diff =  -1.13686837722e-12
+s.s.t =  79.7 	self.i =  397 	self.time[i]*1e3 =  79.7 	diff =  -1.1226575225e-12
+s.s.t =  79.8 	self.i =  398 	self.time[i]*1e3 =  79.8 	diff =  -1.13686837722e-12
+s.s.t =  79.9 	self.i =  399 	self.time[i]*1e3 =  79.9 	diff =  -1.15107923193e-12
+s.s.t =  80.0 	self.i =  400 	self.time[i]*1e3 =  80.0 	diff =  -1.15107923193e-12
+s.s.t =  80.1 	self.i =  401 	self.time[i]*1e3 =  80.1 	diff =  -1.13686837722e-12
+s.s.t =  80.2 	self.i =  402 	self.time[i]*1e3 =  80.2 	diff =  -1.15107923193e-12
+s.s.t =  80.3 	self.i =  403 	self.time[i]*1e3 =  80.3 	diff =  -1.13686837722e-12
+s.s.t =  80.4 	self.i =  404 	self.time[i]*1e3 =  80.4 	diff =  -1.17950094136e-12
+s.s.t =  80.5 	self.i =  405 	self.time[i]*1e3 =  80.5 	diff =  -1.15107923193e-12
+s.s.t =  80.6 	self.i =  406 	self.time[i]*1e3 =  80.6 	diff =  -1.16529008665e-12
+s.s.t =  80.7 	self.i =  407 	self.time[i]*1e3 =  80.7 	diff =  -1.15107923193e-12
+s.s.t =  80.8 	self.i =  408 	self.time[i]*1e3 =  80.8 	diff =  -1.16529008665e-12
+s.s.t =  80.9 	self.i =  409 	self.time[i]*1e3 =  80.9 	diff =  -1.17950094136e-12
+s.s.t =  81.0 	self.i =  410 	self.time[i]*1e3 =  81.0 	diff =  -1.17950094136e-12
+s.s.t =  81.1 	self.i =  411 	self.time[i]*1e3 =  81.1 	diff =  -1.16529008665e-12
+s.s.t =  81.2 	self.i =  412 	self.time[i]*1e3 =  81.2 	diff =  -1.17950094136e-12
+s.s.t =  81.3 	self.i =  413 	self.time[i]*1e3 =  81.3 	diff =  -1.17950094136e-12
+s.s.t =  81.4 	self.i =  414 	self.time[i]*1e3 =  81.4 	diff =  -1.20792265079e-12
+s.s.t =  81.5 	self.i =  415 	self.time[i]*1e3 =  81.5 	diff =  -1.17950094136e-12
+s.s.t =  81.6 	self.i =  416 	self.time[i]*1e3 =  81.6 	diff =  -1.19371179608e-12
+s.s.t =  81.7 	self.i =  417 	self.time[i]*1e3 =  81.7 	diff =  -1.17950094136e-12
+s.s.t =  81.8 	self.i =  418 	self.time[i]*1e3 =  81.8 	diff =  -1.20792265079e-12
+s.s.t =  81.9 	self.i =  419 	self.time[i]*1e3 =  81.9 	diff =  -1.19371179608e-12
+s.s.t =  82.0 	self.i =  420 	self.time[i]*1e3 =  82.0 	diff =  -1.20792265079e-12
+s.s.t =  82.1 	self.i =  421 	self.time[i]*1e3 =  82.1 	diff =  -1.19371179608e-12
+s.s.t =  82.2 	self.i =  422 	self.time[i]*1e3 =  82.2 	diff =  -1.20792265079e-12
+s.s.t =  82.3 	self.i =  423 	self.time[i]*1e3 =  82.3 	diff =  -1.20792265079e-12
+s.s.t =  82.4 	self.i =  424 	self.time[i]*1e3 =  82.4 	diff =  -1.22213350551e-12
+s.s.t =  82.5 	self.i =  425 	self.time[i]*1e3 =  82.5 	diff =  -1.20792265079e-12
+s.s.t =  82.6 	self.i =  426 	self.time[i]*1e3 =  82.6 	diff =  -1.22213350551e-12
+s.s.t =  82.7 	self.i =  427 	self.time[i]*1e3 =  82.7 	diff =  -1.20792265079e-12
+s.s.t =  82.8 	self.i =  428 	self.time[i]*1e3 =  82.8 	diff =  -1.23634436022e-12
+s.s.t =  82.9 	self.i =  429 	self.time[i]*1e3 =  82.9 	diff =  -1.22213350551e-12
+s.s.t =  83.0 	self.i =  430 	self.time[i]*1e3 =  83.0 	diff =  -1.23634436022e-12
+s.s.t =  83.1 	self.i =  431 	self.time[i]*1e3 =  83.1 	diff =  -1.22213350551e-12
+s.s.t =  83.2 	self.i =  432 	self.time[i]*1e3 =  83.2 	diff =  -1.23634436022e-12
+s.s.t =  83.3 	self.i =  433 	self.time[i]*1e3 =  83.3 	diff =  -1.23634436022e-12
+s.s.t =  83.4 	self.i =  434 	self.time[i]*1e3 =  83.4 	diff =  -1.25055521494e-12
+s.s.t =  83.5 	self.i =  435 	self.time[i]*1e3 =  83.5 	diff =  -1.23634436022e-12
+s.s.t =  83.6 	self.i =  436 	self.time[i]*1e3 =  83.6 	diff =  -1.25055521494e-12
+s.s.t =  83.7 	self.i =  437 	self.time[i]*1e3 =  83.7 	diff =  -1.23634436022e-12
+s.s.t =  83.8 	self.i =  438 	self.time[i]*1e3 =  83.8 	diff =  -1.26476606965e-12
+s.s.t =  83.9 	self.i =  439 	self.time[i]*1e3 =  83.9 	diff =  -1.25055521494e-12
+s.s.t =  84.0 	self.i =  440 	self.time[i]*1e3 =  84.0 	diff =  -1.26476606965e-12
+s.s.t =  84.1 	self.i =  441 	self.time[i]*1e3 =  84.1 	diff =  -1.25055521494e-12
+s.s.t =  84.2 	self.i =  442 	self.time[i]*1e3 =  84.2 	diff =  -1.26476606965e-12
+s.s.t =  84.3 	self.i =  443 	self.time[i]*1e3 =  84.3 	diff =  -1.26476606965e-12
+s.s.t =  84.4 	self.i =  444 	self.time[i]*1e3 =  84.4 	diff =  -1.27897692437e-12
+s.s.t =  84.5 	self.i =  445 	self.time[i]*1e3 =  84.5 	diff =  -1.26476606965e-12
+s.s.t =  84.6 	self.i =  446 	self.time[i]*1e3 =  84.6 	diff =  -1.27897692437e-12
+s.s.t =  84.7 	self.i =  447 	self.time[i]*1e3 =  84.7 	diff =  -1.26476606965e-12
+s.s.t =  84.8 	self.i =  448 	self.time[i]*1e3 =  84.8 	diff =  -1.29318777908e-12
+s.s.t =  84.9 	self.i =  449 	self.time[i]*1e3 =  84.9 	diff =  -1.27897692437e-12
+s.s.t =  85.0 	self.i =  450 	self.time[i]*1e3 =  85.0 	diff =  -1.29318777908e-12
+s.s.t =  85.1 	self.i =  451 	self.time[i]*1e3 =  85.1 	diff =  -1.27897692437e-12
+s.s.t =  85.2 	self.i =  452 	self.time[i]*1e3 =  85.2 	diff =  -1.29318777908e-12
+s.s.t =  85.3 	self.i =  453 	self.time[i]*1e3 =  85.3 	diff =  -1.29318777908e-12
+s.s.t =  85.4 	self.i =  454 	self.time[i]*1e3 =  85.4 	diff =  -1.3073986338e-12
+s.s.t =  85.5 	self.i =  455 	self.time[i]*1e3 =  85.5 	diff =  -1.29318777908e-12
+s.s.t =  85.6 	self.i =  456 	self.time[i]*1e3 =  85.6 	diff =  -1.3073986338e-12
+s.s.t =  85.7 	self.i =  457 	self.time[i]*1e3 =  85.7 	diff =  -1.29318777908e-12
+s.s.t =  85.8 	self.i =  458 	self.time[i]*1e3 =  85.8 	diff =  -1.32160948851e-12
+s.s.t =  85.9 	self.i =  459 	self.time[i]*1e3 =  85.9 	diff =  -1.3073986338e-12
+s.s.t =  86.0 	self.i =  460 	self.time[i]*1e3 =  86.0 	diff =  -1.32160948851e-12
+s.s.t =  86.1 	self.i =  461 	self.time[i]*1e3 =  86.1 	diff =  -1.3073986338e-12
+s.s.t =  86.2 	self.i =  462 	self.time[i]*1e3 =  86.2 	diff =  -1.32160948851e-12
+s.s.t =  86.3 	self.i =  463 	self.time[i]*1e3 =  86.3 	diff =  -1.32160948851e-12
+s.s.t =  86.4 	self.i =  464 	self.time[i]*1e3 =  86.4 	diff =  -1.33582034323e-12
+s.s.t =  86.5 	self.i =  465 	self.time[i]*1e3 =  86.5 	diff =  -1.32160948851e-12
+s.s.t =  86.6 	self.i =  466 	self.time[i]*1e3 =  86.6 	diff =  -1.33582034323e-12
+s.s.t =  86.7 	self.i =  467 	self.time[i]*1e3 =  86.7 	diff =  -1.32160948851e-12
+s.s.t =  86.8 	self.i =  468 	self.time[i]*1e3 =  86.8 	diff =  -1.35003119794e-12
+s.s.t =  86.9 	self.i =  469 	self.time[i]*1e3 =  86.9 	diff =  -1.33582034323e-12
+s.s.t =  87.0 	self.i =  470 	self.time[i]*1e3 =  87.0 	diff =  -1.35003119794e-12
+s.s.t =  87.1 	self.i =  471 	self.time[i]*1e3 =  87.1 	diff =  -1.33582034323e-12
+s.s.t =  87.2 	self.i =  472 	self.time[i]*1e3 =  87.2 	diff =  -1.35003119794e-12
+s.s.t =  87.3 	self.i =  473 	self.time[i]*1e3 =  87.3 	diff =  -1.35003119794e-12
+s.s.t =  87.4 	self.i =  474 	self.time[i]*1e3 =  87.4 	diff =  -1.36424205266e-12
+s.s.t =  87.5 	self.i =  475 	self.time[i]*1e3 =  87.5 	diff =  -1.35003119794e-12
+s.s.t =  87.6 	self.i =  476 	self.time[i]*1e3 =  87.6 	diff =  -1.37845290737e-12
+s.s.t =  87.7 	self.i =  477 	self.time[i]*1e3 =  87.7 	diff =  -1.36424205266e-12
+s.s.t =  87.8 	self.i =  478 	self.time[i]*1e3 =  87.8 	diff =  -1.37845290737e-12
+s.s.t =  87.9 	self.i =  479 	self.time[i]*1e3 =  87.9 	diff =  -1.36424205266e-12
+s.s.t =  88.0 	self.i =  480 	self.time[i]*1e3 =  88.0 	diff =  -1.37845290737e-12
+s.s.t =  88.1 	self.i =  481 	self.time[i]*1e3 =  88.1 	diff =  -1.37845290737e-12
+s.s.t =  88.2 	self.i =  482 	self.time[i]*1e3 =  88.2 	diff =  -1.37845290737e-12
+s.s.t =  88.3 	self.i =  483 	self.time[i]*1e3 =  88.3 	diff =  -1.37845290737e-12
+s.s.t =  88.4 	self.i =  484 	self.time[i]*1e3 =  88.4 	diff =  -1.39266376209e-12
+s.s.t =  88.5 	self.i =  485 	self.time[i]*1e3 =  88.5 	diff =  -1.36424205266e-12
+s.s.t =  88.6 	self.i =  486 	self.time[i]*1e3 =  88.6 	diff =  -1.4068746168e-12
+s.s.t =  88.7 	self.i =  487 	self.time[i]*1e3 =  88.7 	diff =  -1.39266376209e-12
+s.s.t =  88.8 	self.i =  488 	self.time[i]*1e3 =  88.8 	diff =  -1.4068746168e-12
+s.s.t =  88.9 	self.i =  489 	self.time[i]*1e3 =  88.9 	diff =  -1.39266376209e-12
+s.s.t =  89.0 	self.i =  490 	self.time[i]*1e3 =  89.0 	diff =  -1.39266376209e-12
+s.s.t =  89.1 	self.i =  491 	self.time[i]*1e3 =  89.1 	diff =  -1.4068746168e-12
+s.s.t =  89.2 	self.i =  492 	self.time[i]*1e3 =  89.2 	diff =  -1.42108547152e-12
+s.s.t =  89.3 	self.i =  493 	self.time[i]*1e3 =  89.3 	diff =  -1.4068746168e-12
+s.s.t =  89.4 	self.i =  494 	self.time[i]*1e3 =  89.4 	diff =  -1.42108547152e-12
+s.s.t =  89.5 	self.i =  495 	self.time[i]*1e3 =  89.5 	diff =  -1.39266376209e-12
+s.s.t =  89.6 	self.i =  496 	self.time[i]*1e3 =  89.6 	diff =  -1.43529632624e-12
+s.s.t =  89.7 	self.i =  497 	self.time[i]*1e3 =  89.7 	diff =  -1.42108547152e-12
+s.s.t =  89.8 	self.i =  498 	self.time[i]*1e3 =  89.8 	diff =  -1.43529632624e-12
+s.s.t =  89.9 	self.i =  499 	self.time[i]*1e3 =  89.9 	diff =  -1.42108547152e-12
+s.s.t =  90.0 	self.i =  500 	self.time[i]*1e3 =  90.0 	diff =  -1.42108547152e-12
+s.s.t =  90.1 	self.i =  501 	self.time[i]*1e3 =  90.1 	diff =  -1.43529632624e-12
+s.s.t =  90.2 	self.i =  502 	self.time[i]*1e3 =  90.2 	diff =  -1.44950718095e-12
+s.s.t =  90.3 	self.i =  503 	self.time[i]*1e3 =  90.3 	diff =  -1.43529632624e-12
+s.s.t =  90.4 	self.i =  504 	self.time[i]*1e3 =  90.4 	diff =  -1.44950718095e-12
+s.s.t =  90.5 	self.i =  505 	self.time[i]*1e3 =  90.5 	diff =  -1.42108547152e-12
+s.s.t =  90.6 	self.i =  506 	self.time[i]*1e3 =  90.6 	diff =  -1.46371803567e-12
+s.s.t =  90.7 	self.i =  507 	self.time[i]*1e3 =  90.7 	diff =  -1.44950718095e-12
+s.s.t =  90.8 	self.i =  508 	self.time[i]*1e3 =  90.8 	diff =  -1.46371803567e-12
+s.s.t =  90.9 	self.i =  509 	self.time[i]*1e3 =  90.9 	diff =  -1.44950718095e-12
+s.s.t =  91.0 	self.i =  510 	self.time[i]*1e3 =  91.0 	diff =  -1.46371803567e-12
+s.s.t =  91.1 	self.i =  511 	self.time[i]*1e3 =  91.1 	diff =  -1.46371803567e-12
+s.s.t =  91.2 	self.i =  512 	self.time[i]*1e3 =  91.2 	diff =  -1.47792889038e-12
+s.s.t =  91.3 	self.i =  513 	self.time[i]*1e3 =  91.3 	diff =  -1.46371803567e-12
+s.s.t =  91.4 	self.i =  514 	self.time[i]*1e3 =  91.4 	diff =  -1.47792889038e-12
+s.s.t =  91.5 	self.i =  515 	self.time[i]*1e3 =  91.5 	diff =  -1.46371803567e-12
+s.s.t =  91.6 	self.i =  516 	self.time[i]*1e3 =  91.6 	diff =  -1.4921397451e-12
+s.s.t =  91.7 	self.i =  517 	self.time[i]*1e3 =  91.7 	diff =  -1.47792889038e-12
+s.s.t =  91.8 	self.i =  518 	self.time[i]*1e3 =  91.8 	diff =  -1.47792889038e-12
+s.s.t =  91.9 	self.i =  519 	self.time[i]*1e3 =  91.9 	diff =  -1.47792889038e-12
+s.s.t =  92.0 	self.i =  520 	self.time[i]*1e3 =  92.0 	diff =  -1.4921397451e-12
+s.s.t =  92.1 	self.i =  521 	self.time[i]*1e3 =  92.1 	diff =  -1.4921397451e-12
+s.s.t =  92.2 	self.i =  522 	self.time[i]*1e3 =  92.2 	diff =  -1.50635059981e-12
+s.s.t =  92.3 	self.i =  523 	self.time[i]*1e3 =  92.3 	diff =  -1.47792889038e-12
+s.s.t =  92.4 	self.i =  524 	self.time[i]*1e3 =  92.4 	diff =  -1.50635059981e-12
+s.s.t =  92.5 	self.i =  525 	self.time[i]*1e3 =  92.5 	diff =  -1.4921397451e-12
+s.s.t =  92.6 	self.i =  526 	self.time[i]*1e3 =  92.6 	diff =  -1.52056145453e-12
+s.s.t =  92.7 	self.i =  527 	self.time[i]*1e3 =  92.7 	diff =  -1.50635059981e-12
+s.s.t =  92.8 	self.i =  528 	self.time[i]*1e3 =  92.8 	diff =  -1.50635059981e-12
+s.s.t =  92.9 	self.i =  529 	self.time[i]*1e3 =  92.9 	diff =  -1.50635059981e-12
+s.s.t =  93.0 	self.i =  530 	self.time[i]*1e3 =  93.0 	diff =  -1.52056145453e-12
+s.s.t =  93.1 	self.i =  531 	self.time[i]*1e3 =  93.1 	diff =  -1.52056145453e-12
+s.s.t =  93.2 	self.i =  532 	self.time[i]*1e3 =  93.2 	diff =  -1.53477230924e-12
+s.s.t =  93.3 	self.i =  533 	self.time[i]*1e3 =  93.3 	diff =  -1.50635059981e-12
+s.s.t =  93.4 	self.i =  534 	self.time[i]*1e3 =  93.4 	diff =  -1.53477230924e-12
+s.s.t =  93.5 	self.i =  535 	self.time[i]*1e3 =  93.5 	diff =  -1.52056145453e-12
+s.s.t =  93.6 	self.i =  536 	self.time[i]*1e3 =  93.6 	diff =  -1.54898316396e-12
+s.s.t =  93.7 	self.i =  537 	self.time[i]*1e3 =  93.7 	diff =  -1.53477230924e-12
+s.s.t =  93.8 	self.i =  538 	self.time[i]*1e3 =  93.8 	diff =  -1.53477230924e-12
+s.s.t =  93.9 	self.i =  539 	self.time[i]*1e3 =  93.9 	diff =  -1.53477230924e-12
+s.s.t =  94.0 	self.i =  540 	self.time[i]*1e3 =  94.0 	diff =  -1.54898316396e-12
+s.s.t =  94.1 	self.i =  541 	self.time[i]*1e3 =  94.1 	diff =  -1.54898316396e-12
+s.s.t =  94.2 	self.i =  542 	self.time[i]*1e3 =  94.2 	diff =  -1.56319401867e-12
+s.s.t =  94.3 	self.i =  543 	self.time[i]*1e3 =  94.3 	diff =  -1.53477230924e-12
+s.s.t =  94.4 	self.i =  544 	self.time[i]*1e3 =  94.4 	diff =  -1.57740487339e-12
+s.s.t =  94.5 	self.i =  545 	self.time[i]*1e3 =  94.5 	diff =  -1.54898316396e-12
+s.s.t =  94.6 	self.i =  546 	self.time[i]*1e3 =  94.6 	diff =  -1.56319401867e-12
+s.s.t =  94.7 	self.i =  547 	self.time[i]*1e3 =  94.7 	diff =  -1.56319401867e-12
+s.s.t =  94.8 	self.i =  548 	self.time[i]*1e3 =  94.8 	diff =  -1.56319401867e-12
+s.s.t =  94.9 	self.i =  549 	self.time[i]*1e3 =  94.9 	diff =  -1.57740487339e-12
+s.s.t =  95.0 	self.i =  550 	self.time[i]*1e3 =  95.0 	diff =  -1.57740487339e-12
+s.s.t =  95.1 	self.i =  551 	self.time[i]*1e3 =  95.1 	diff =  -1.56319401867e-12
+s.s.t =  95.2 	self.i =  552 	self.time[i]*1e3 =  95.2 	diff =  -1.5916157281e-12
+s.s.t =  95.3 	self.i =  553 	self.time[i]*1e3 =  95.3 	diff =  -1.56319401867e-12
+s.s.t =  95.4 	self.i =  554 	self.time[i]*1e3 =  95.4 	diff =  -1.60582658282e-12
+s.s.t =  95.5 	self.i =  555 	self.time[i]*1e3 =  95.5 	diff =  -1.57740487339e-12
+s.s.t =  95.6 	self.i =  556 	self.time[i]*1e3 =  95.6 	diff =  -1.5916157281e-12
+s.s.t =  95.7 	self.i =  557 	self.time[i]*1e3 =  95.7 	diff =  -1.5916157281e-12
+s.s.t =  95.8 	self.i =  558 	self.time[i]*1e3 =  95.8 	diff =  -1.5916157281e-12
+s.s.t =  95.9 	self.i =  559 	self.time[i]*1e3 =  95.9 	diff =  -1.60582658282e-12
+s.s.t =  96.0 	self.i =  560 	self.time[i]*1e3 =  96.0 	diff =  -1.60582658282e-12
+s.s.t =  96.1 	self.i =  561 	self.time[i]*1e3 =  96.1 	diff =  -1.5916157281e-12
+s.s.t =  96.2 	self.i =  562 	self.time[i]*1e3 =  96.2 	diff =  -1.62003743753e-12
+s.s.t =  96.3 	self.i =  563 	self.time[i]*1e3 =  96.3 	diff =  -1.5916157281e-12
+s.s.t =  96.4 	self.i =  564 	self.time[i]*1e3 =  96.4 	diff =  -1.63424829225e-12
+s.s.t =  96.5 	self.i =  565 	self.time[i]*1e3 =  96.5 	diff =  -1.60582658282e-12
+s.s.t =  96.6 	self.i =  566 	self.time[i]*1e3 =  96.6 	diff =  -1.62003743753e-12
+s.s.t =  96.7 	self.i =  567 	self.time[i]*1e3 =  96.7 	diff =  -1.62003743753e-12
+s.s.t =  96.8 	self.i =  568 	self.time[i]*1e3 =  96.8 	diff =  -1.62003743753e-12
+s.s.t =  96.9 	self.i =  569 	self.time[i]*1e3 =  96.9 	diff =  -1.63424829225e-12
+s.s.t =  97.0 	self.i =  570 	self.time[i]*1e3 =  97.0 	diff =  -1.63424829225e-12
+s.s.t =  97.1 	self.i =  571 	self.time[i]*1e3 =  97.1 	diff =  -1.62003743753e-12
+s.s.t =  97.2 	self.i =  572 	self.time[i]*1e3 =  97.2 	diff =  -1.64845914696e-12
+s.s.t =  97.3 	self.i =  573 	self.time[i]*1e3 =  97.3 	diff =  -1.62003743753e-12
+s.s.t =  97.4 	self.i =  574 	self.time[i]*1e3 =  97.4 	diff =  -1.66267000168e-12
+s.s.t =  97.5 	self.i =  575 	self.time[i]*1e3 =  97.5 	diff =  -1.63424829225e-12
+s.s.t =  97.6 	self.i =  576 	self.time[i]*1e3 =  97.6 	diff =  -1.64845914696e-12
+s.s.t =  97.7 	self.i =  577 	self.time[i]*1e3 =  97.7 	diff =  -1.64845914696e-12
+s.s.t =  97.8 	self.i =  578 	self.time[i]*1e3 =  97.8 	diff =  -1.66267000168e-12
+s.s.t =  97.9 	self.i =  579 	self.time[i]*1e3 =  97.9 	diff =  -1.64845914696e-12
+s.s.t =  98.0 	self.i =  580 	self.time[i]*1e3 =  98.0 	diff =  -1.66267000168e-12
+s.s.t =  98.1 	self.i =  581 	self.time[i]*1e3 =  98.1 	diff =  -1.64845914696e-12
+s.s.t =  98.2 	self.i =  582 	self.time[i]*1e3 =  98.2 	diff =  -1.67688085639e-12
+s.s.t =  98.3 	self.i =  583 	self.time[i]*1e3 =  98.3 	diff =  -1.66267000168e-12
+s.s.t =  98.4 	self.i =  584 	self.time[i]*1e3 =  98.4 	diff =  -1.67688085639e-12
+s.s.t =  98.5 	self.i =  585 	self.time[i]*1e3 =  98.5 	diff =  -1.66267000168e-12
+s.s.t =  98.6 	self.i =  586 	self.time[i]*1e3 =  98.6 	diff =  -1.67688085639e-12
+s.s.t =  98.7 	self.i =  587 	self.time[i]*1e3 =  98.7 	diff =  -1.67688085639e-12
+s.s.t =  98.8 	self.i =  588 	self.time[i]*1e3 =  98.8 	diff =  -1.69109171111e-12
+s.s.t =  98.9 	self.i =  589 	self.time[i]*1e3 =  98.9 	diff =  -1.67688085639e-12
+s.s.t =  99.0 	self.i =  590 	self.time[i]*1e3 =  99.0 	diff =  -1.69109171111e-12
+s.s.t =  99.1 	self.i =  591 	self.time[i]*1e3 =  99.1 	diff =  -1.67688085639e-12
+s.s.t =  99.2 	self.i =  592 	self.time[i]*1e3 =  99.2 	diff =  -1.70530256582e-12
+s.s.t =  99.3 	self.i =  593 	self.time[i]*1e3 =  99.3 	diff =  -1.69109171111e-12
+s.s.t =  99.4 	self.i =  594 	self.time[i]*1e3 =  99.4 	diff =  -1.70530256582e-12
+s.s.t =  99.5 	self.i =  595 	self.time[i]*1e3 =  99.5 	diff =  -1.70530256582e-12
+s.s.t =  99.6 	self.i =  596 	self.time[i]*1e3 =  99.6 	diff =  -1.70530256582e-12
+s.s.t =  99.7 	self.i =  597 	self.time[i]*1e3 =  99.7 	diff =  -1.70530256582e-12
+s.s.t =  99.8 	self.i =  598 	self.time[i]*1e3 =  99.8 	diff =  -1.71951342054e-12
+s.s.t =  99.9 	self.i =  599 	self.time[i]*1e3 =  99.9 	diff =  -1.70530256582e-12
+s.s.t =  100.0 	self.i =  600 	self.time[i]*1e3 =  100.0 	diff =  -1.71951342054e-12
+s.s.t =  100.1 	self.i =  601 	self.time[i]*1e3 =  100.1 	diff =  -1.70530256582e-12
+s.s.t =  100.2 	self.i =  602 	self.time[i]*1e3 =  100.2 	diff =  -1.73372427525e-12
+s.s.t =  100.3 	self.i =  603 	self.time[i]*1e3 =  100.3 	diff =  -1.71951342054e-12
+s.s.t =  100.4 	self.i =  604 	self.time[i]*1e3 =  100.4 	diff =  -1.73372427525e-12
+s.s.t =  100.5 	self.i =  605 	self.time[i]*1e3 =  100.5 	diff =  -1.73372427525e-12
+s.s.t =  100.6 	self.i =  606 	self.time[i]*1e3 =  100.6 	diff =  -1.73372427525e-12
+s.s.t =  100.7 	self.i =  607 	self.time[i]*1e3 =  100.7 	diff =  -1.73372427525e-12
+s.s.t =  100.8 	self.i =  608 	self.time[i]*1e3 =  100.8 	diff =  -1.74793512997e-12
+s.s.t =  100.9 	self.i =  609 	self.time[i]*1e3 =  100.9 	diff =  -1.73372427525e-12
+s.s.t =  101.0 	self.i =  610 	self.time[i]*1e3 =  101.0 	diff =  -1.76214598469e-12
+s.s.t =  101.1 	self.i =  611 	self.time[i]*1e3 =  101.1 	diff =  -1.73372427525e-12
+s.s.t =  101.2 	self.i =  612 	self.time[i]*1e3 =  101.2 	diff =  -1.76214598469e-12
+s.s.t =  101.3 	self.i =  613 	self.time[i]*1e3 =  101.3 	diff =  -1.74793512997e-12
+s.s.t =  101.4 	self.i =  614 	self.time[i]*1e3 =  101.4 	diff =  -1.76214598469e-12
+s.s.t =  101.5 	self.i =  615 	self.time[i]*1e3 =  101.5 	diff =  -1.76214598469e-12
+s.s.t =  101.6 	self.i =  616 	self.time[i]*1e3 =  101.6 	diff =  -1.76214598469e-12
+s.s.t =  101.7 	self.i =  617 	self.time[i]*1e3 =  101.7 	diff =  -1.76214598469e-12
+s.s.t =  101.8 	self.i =  618 	self.time[i]*1e3 =  101.8 	diff =  -1.7763568394e-12
+s.s.t =  101.9 	self.i =  619 	self.time[i]*1e3 =  101.9 	diff =  -1.76214598469e-12
+s.s.t =  102.0 	self.i =  620 	self.time[i]*1e3 =  102.0 	diff =  -1.79056769412e-12
+s.s.t =  102.1 	self.i =  621 	self.time[i]*1e3 =  102.1 	diff =  -1.76214598469e-12
+s.s.t =  102.2 	self.i =  622 	self.time[i]*1e3 =  102.2 	diff =  -1.79056769412e-12
+s.s.t =  102.3 	self.i =  623 	self.time[i]*1e3 =  102.3 	diff =  -1.7763568394e-12
+s.s.t =  102.4 	self.i =  624 	self.time[i]*1e3 =  102.4 	diff =  -1.79056769412e-12
+s.s.t =  102.5 	self.i =  625 	self.time[i]*1e3 =  102.5 	diff =  -1.79056769412e-12
+s.s.t =  102.6 	self.i =  626 	self.time[i]*1e3 =  102.6 	diff =  -1.79056769412e-12
+s.s.t =  102.7 	self.i =  627 	self.time[i]*1e3 =  102.7 	diff =  -1.79056769412e-12
+s.s.t =  102.8 	self.i =  628 	self.time[i]*1e3 =  102.8 	diff =  -1.80477854883e-12
+s.s.t =  102.9 	self.i =  629 	self.time[i]*1e3 =  102.9 	diff =  -1.79056769412e-12
+s.s.t =  103.0 	self.i =  630 	self.time[i]*1e3 =  103.0 	diff =  -1.81898940355e-12
+s.s.t =  103.1 	self.i =  631 	self.time[i]*1e3 =  103.1 	diff =  -1.79056769412e-12
+s.s.t =  103.2 	self.i =  632 	self.time[i]*1e3 =  103.2 	diff =  -1.81898940355e-12
+s.s.t =  103.3 	self.i =  633 	self.time[i]*1e3 =  103.3 	diff =  -1.80477854883e-12
+s.s.t =  103.4 	self.i =  634 	self.time[i]*1e3 =  103.4 	diff =  -1.81898940355e-12
+s.s.t =  103.5 	self.i =  635 	self.time[i]*1e3 =  103.5 	diff =  -1.81898940355e-12
+s.s.t =  103.6 	self.i =  636 	self.time[i]*1e3 =  103.6 	diff =  -1.81898940355e-12
+s.s.t =  103.7 	self.i =  637 	self.time[i]*1e3 =  103.7 	diff =  -1.81898940355e-12
+s.s.t =  103.8 	self.i =  638 	self.time[i]*1e3 =  103.8 	diff =  -1.83320025826e-12
+s.s.t =  103.9 	self.i =  639 	self.time[i]*1e3 =  103.9 	diff =  -1.81898940355e-12
+s.s.t =  104.0 	self.i =  640 	self.time[i]*1e3 =  104.0 	diff =  -1.84741111298e-12
+s.s.t =  104.1 	self.i =  641 	self.time[i]*1e3 =  104.1 	diff =  -1.83320025826e-12
+s.s.t =  104.2 	self.i =  642 	self.time[i]*1e3 =  104.2 	diff =  -1.84741111298e-12
+s.s.t =  104.3 	self.i =  643 	self.time[i]*1e3 =  104.3 	diff =  -1.83320025826e-12
+s.s.t =  104.4 	self.i =  644 	self.time[i]*1e3 =  104.4 	diff =  -1.84741111298e-12
+s.s.t =  104.5 	self.i =  645 	self.time[i]*1e3 =  104.5 	diff =  -1.83320025826e-12
+s.s.t =  104.6 	self.i =  646 	self.time[i]*1e3 =  104.6 	diff =  -1.86162196769e-12
+s.s.t =  104.7 	self.i =  647 	self.time[i]*1e3 =  104.7 	diff =  -1.84741111298e-12
+s.s.t =  104.8 	self.i =  648 	self.time[i]*1e3 =  104.8 	diff =  -1.86162196769e-12
+s.s.t =  104.9 	self.i =  649 	self.time[i]*1e3 =  104.9 	diff =  -1.84741111298e-12
+s.s.t =  105.0 	self.i =  650 	self.time[i]*1e3 =  105.0 	diff =  -1.86162196769e-12
+s.s.t =  105.1 	self.i =  651 	self.time[i]*1e3 =  105.1 	diff =  -1.86162196769e-12
+s.s.t =  105.2 	self.i =  652 	self.time[i]*1e3 =  105.2 	diff =  -1.87583282241e-12
+s.s.t =  105.3 	self.i =  653 	self.time[i]*1e3 =  105.3 	diff =  -1.86162196769e-12
+s.s.t =  105.4 	self.i =  654 	self.time[i]*1e3 =  105.4 	diff =  -1.87583282241e-12
+s.s.t =  105.5 	self.i =  655 	self.time[i]*1e3 =  105.5 	diff =  -1.86162196769e-12
+s.s.t =  105.6 	self.i =  656 	self.time[i]*1e3 =  105.6 	diff =  -1.89004367712e-12
+s.s.t =  105.7 	self.i =  657 	self.time[i]*1e3 =  105.7 	diff =  -1.87583282241e-12
+s.s.t =  105.8 	self.i =  658 	self.time[i]*1e3 =  105.8 	diff =  -1.89004367712e-12
+s.s.t =  105.9 	self.i =  659 	self.time[i]*1e3 =  105.9 	diff =  -1.87583282241e-12
+s.s.t =  106.0 	self.i =  660 	self.time[i]*1e3 =  106.0 	diff =  -1.89004367712e-12
+s.s.t =  106.1 	self.i =  661 	self.time[i]*1e3 =  106.1 	diff =  -1.89004367712e-12
+s.s.t =  106.2 	self.i =  662 	self.time[i]*1e3 =  106.2 	diff =  -1.90425453184e-12
+s.s.t =  106.3 	self.i =  663 	self.time[i]*1e3 =  106.3 	diff =  -1.89004367712e-12
+s.s.t =  106.4 	self.i =  664 	self.time[i]*1e3 =  106.4 	diff =  -1.90425453184e-12
+s.s.t =  106.5 	self.i =  665 	self.time[i]*1e3 =  106.5 	diff =  -1.89004367712e-12
+s.s.t =  106.6 	self.i =  666 	self.time[i]*1e3 =  106.6 	diff =  -1.91846538655e-12
+s.s.t =  106.7 	self.i =  667 	self.time[i]*1e3 =  106.7 	diff =  -1.90425453184e-12
+s.s.t =  106.8 	self.i =  668 	self.time[i]*1e3 =  106.8 	diff =  -1.91846538655e-12
+s.s.t =  106.9 	self.i =  669 	self.time[i]*1e3 =  106.9 	diff =  -1.90425453184e-12
+s.s.t =  107.0 	self.i =  670 	self.time[i]*1e3 =  107.0 	diff =  -1.91846538655e-12
+s.s.t =  107.1 	self.i =  671 	self.time[i]*1e3 =  107.1 	diff =  -1.91846538655e-12
+s.s.t =  107.2 	self.i =  672 	self.time[i]*1e3 =  107.2 	diff =  -1.93267624127e-12
+s.s.t =  107.3 	self.i =  673 	self.time[i]*1e3 =  107.3 	diff =  -1.91846538655e-12
+s.s.t =  107.4 	self.i =  674 	self.time[i]*1e3 =  107.4 	diff =  -1.93267624127e-12
+s.s.t =  107.5 	self.i =  675 	self.time[i]*1e3 =  107.5 	diff =  -1.93267624127e-12
+s.s.t =  107.6 	self.i =  676 	self.time[i]*1e3 =  107.6 	diff =  -1.94688709598e-12
+s.s.t =  107.7 	self.i =  677 	self.time[i]*1e3 =  107.7 	diff =  -1.93267624127e-12
+s.s.t =  107.8 	self.i =  678 	self.time[i]*1e3 =  107.8 	diff =  -1.93267624127e-12
+s.s.t =  107.9 	self.i =  679 	self.time[i]*1e3 =  107.9 	diff =  -1.93267624127e-12
+s.s.t =  108.0 	self.i =  680 	self.time[i]*1e3 =  108.0 	diff =  -1.9610979507e-12
+s.s.t =  108.1 	self.i =  681 	self.time[i]*1e3 =  108.1 	diff =  -1.94688709598e-12
+s.s.t =  108.2 	self.i =  682 	self.time[i]*1e3 =  108.2 	diff =  -1.9610979507e-12
+s.s.t =  108.3 	self.i =  683 	self.time[i]*1e3 =  108.3 	diff =  -1.93267624127e-12
+s.s.t =  108.4 	self.i =  684 	self.time[i]*1e3 =  108.4 	diff =  -1.9610979507e-12
+s.s.t =  108.5 	self.i =  685 	self.time[i]*1e3 =  108.5 	diff =  -1.9610979507e-12
+s.s.t =  108.6 	self.i =  686 	self.time[i]*1e3 =  108.6 	diff =  -1.97530880541e-12
+s.s.t =  108.7 	self.i =  687 	self.time[i]*1e3 =  108.7 	diff =  -1.9610979507e-12
+s.s.t =  108.8 	self.i =  688 	self.time[i]*1e3 =  108.8 	diff =  -1.9610979507e-12
+s.s.t =  108.9 	self.i =  689 	self.time[i]*1e3 =  108.9 	diff =  -1.9610979507e-12
+s.s.t =  109.0 	self.i =  690 	self.time[i]*1e3 =  109.0 	diff =  -1.98951966013e-12
+s.s.t =  109.1 	self.i =  691 	self.time[i]*1e3 =  109.1 	diff =  -1.97530880541e-12
+s.s.t =  109.2 	self.i =  692 	self.time[i]*1e3 =  109.2 	diff =  -1.98951966013e-12
+s.s.t =  109.3 	self.i =  693 	self.time[i]*1e3 =  109.3 	diff =  -1.9610979507e-12
+s.s.t =  109.4 	self.i =  694 	self.time[i]*1e3 =  109.4 	diff =  -1.98951966013e-12
+s.s.t =  109.5 	self.i =  695 	self.time[i]*1e3 =  109.5 	diff =  -1.98951966013e-12
+s.s.t =  109.6 	self.i =  696 	self.time[i]*1e3 =  109.6 	diff =  -2.00373051484e-12
+s.s.t =  109.7 	self.i =  697 	self.time[i]*1e3 =  109.7 	diff =  -1.98951966013e-12
+s.s.t =  109.8 	self.i =  698 	self.time[i]*1e3 =  109.8 	diff =  -1.98951966013e-12
+s.s.t =  109.9 	self.i =  699 	self.time[i]*1e3 =  109.9 	diff =  -1.98951966013e-12
+s.s.t =  110.0 	self.i =  700 	self.time[i]*1e3 =  110.0 	diff =  -2.01794136956e-12
+s.s.t =  110.1 	self.i =  701 	self.time[i]*1e3 =  110.1 	diff =  -2.00373051484e-12
+s.s.t =  110.2 	self.i =  702 	self.time[i]*1e3 =  110.2 	diff =  -2.01794136956e-12
+s.s.t =  110.3 	self.i =  703 	self.time[i]*1e3 =  110.3 	diff =  -1.98951966013e-12
+s.s.t =  110.4 	self.i =  704 	self.time[i]*1e3 =  110.4 	diff =  -2.01794136956e-12
+s.s.t =  110.5 	self.i =  705 	self.time[i]*1e3 =  110.5 	diff =  -2.01794136956e-12
+s.s.t =  110.6 	self.i =  706 	self.time[i]*1e3 =  110.6 	diff =  -2.01794136956e-12
+s.s.t =  110.7 	self.i =  707 	self.time[i]*1e3 =  110.7 	diff =  -2.01794136956e-12
+s.s.t =  110.8 	self.i =  708 	self.time[i]*1e3 =  110.8 	diff =  -2.01794136956e-12
+s.s.t =  110.9 	self.i =  709 	self.time[i]*1e3 =  110.9 	diff =  -2.03215222427e-12
+s.s.t =  111.0 	self.i =  710 	self.time[i]*1e3 =  111.0 	diff =  -2.04636307899e-12
+s.s.t =  111.1 	self.i =  711 	self.time[i]*1e3 =  111.1 	diff =  -2.01794136956e-12
+s.s.t =  111.2 	self.i =  712 	self.time[i]*1e3 =  111.2 	diff =  -2.04636307899e-12
+s.s.t =  111.3 	self.i =  713 	self.time[i]*1e3 =  111.3 	diff =  -2.01794136956e-12
+s.s.t =  111.4 	self.i =  714 	self.time[i]*1e3 =  111.4 	diff =  -2.0605739337e-12
+s.s.t =  111.5 	self.i =  715 	self.time[i]*1e3 =  111.5 	diff =  -2.04636307899e-12
+s.s.t =  111.6 	self.i =  716 	self.time[i]*1e3 =  111.6 	diff =  -2.04636307899e-12
+s.s.t =  111.7 	self.i =  717 	self.time[i]*1e3 =  111.7 	diff =  -2.04636307899e-12
+s.s.t =  111.8 	self.i =  718 	self.time[i]*1e3 =  111.8 	diff =  -2.04636307899e-12
+s.s.t =  111.9 	self.i =  719 	self.time[i]*1e3 =  111.9 	diff =  -2.0605739337e-12
+s.s.t =  112.0 	self.i =  720 	self.time[i]*1e3 =  112.0 	diff =  -2.07478478842e-12
+s.s.t =  112.1 	self.i =  721 	self.time[i]*1e3 =  112.1 	diff =  -2.04636307899e-12
+s.s.t =  112.2 	self.i =  722 	self.time[i]*1e3 =  112.2 	diff =  -2.07478478842e-12
+s.s.t =  112.3 	self.i =  723 	self.time[i]*1e3 =  112.3 	diff =  -2.04636307899e-12
+s.s.t =  112.4 	self.i =  724 	self.time[i]*1e3 =  112.4 	diff =  -2.08899564313e-12
+s.s.t =  112.5 	self.i =  725 	self.time[i]*1e3 =  112.5 	diff =  -2.07478478842e-12
+s.s.t =  112.6 	self.i =  726 	self.time[i]*1e3 =  112.6 	diff =  -2.07478478842e-12
+s.s.t =  112.7 	self.i =  727 	self.time[i]*1e3 =  112.7 	diff =  -2.07478478842e-12
+s.s.t =  112.8 	self.i =  728 	self.time[i]*1e3 =  112.8 	diff =  -2.07478478842e-12
+s.s.t =  112.9 	self.i =  729 	self.time[i]*1e3 =  112.9 	diff =  -2.08899564313e-12
+s.s.t =  113.0 	self.i =  730 	self.time[i]*1e3 =  113.0 	diff =  -2.10320649785e-12
+s.s.t =  113.1 	self.i =  731 	self.time[i]*1e3 =  113.1 	diff =  -2.07478478842e-12
+s.s.t =  113.2 	self.i =  732 	self.time[i]*1e3 =  113.2 	diff =  -2.10320649785e-12
+s.s.t =  113.3 	self.i =  733 	self.time[i]*1e3 =  113.3 	diff =  -2.08899564313e-12
+s.s.t =  113.4 	self.i =  734 	self.time[i]*1e3 =  113.4 	diff =  -2.11741735257e-12
+s.s.t =  113.5 	self.i =  735 	self.time[i]*1e3 =  113.5 	diff =  -2.10320649785e-12
+s.s.t =  113.6 	self.i =  736 	self.time[i]*1e3 =  113.6 	diff =  -2.10320649785e-12
+s.s.t =  113.7 	self.i =  737 	self.time[i]*1e3 =  113.7 	diff =  -2.10320649785e-12
+s.s.t =  113.8 	self.i =  738 	self.time[i]*1e3 =  113.8 	diff =  -2.10320649785e-12
+s.s.t =  113.9 	self.i =  739 	self.time[i]*1e3 =  113.9 	diff =  -2.10320649785e-12
+s.s.t =  114.0 	self.i =  740 	self.time[i]*1e3 =  114.0 	diff =  -2.13162820728e-12
+s.s.t =  114.1 	self.i =  741 	self.time[i]*1e3 =  114.1 	diff =  -2.10320649785e-12
+s.s.t =  114.2 	self.i =  742 	self.time[i]*1e3 =  114.2 	diff =  -2.13162820728e-12
+s.s.t =  114.3 	self.i =  743 	self.time[i]*1e3 =  114.3 	diff =  -2.13162820728e-12
+s.s.t =  114.4 	self.i =  744 	self.time[i]*1e3 =  114.4 	diff =  -2.13162820728e-12
+s.s.t =  114.5 	self.i =  745 	self.time[i]*1e3 =  114.5 	diff =  -2.13162820728e-12
+s.s.t =  114.6 	self.i =  746 	self.time[i]*1e3 =  114.6 	diff =  -2.13162820728e-12
+s.s.t =  114.7 	self.i =  747 	self.time[i]*1e3 =  114.7 	diff =  -2.13162820728e-12
+s.s.t =  114.8 	self.i =  748 	self.time[i]*1e3 =  114.8 	diff =  -2.16004991671e-12
+s.s.t =  114.9 	self.i =  749 	self.time[i]*1e3 =  114.9 	diff =  -2.13162820728e-12
+s.s.t =  115.0 	self.i =  750 	self.time[i]*1e3 =  115.0 	diff =  -2.16004991671e-12
+s.s.t =  115.1 	self.i =  751 	self.time[i]*1e3 =  115.1 	diff =  -2.13162820728e-12
+s.s.t =  115.2 	self.i =  752 	self.time[i]*1e3 =  115.2 	diff =  -2.16004991671e-12
+s.s.t =  115.3 	self.i =  753 	self.time[i]*1e3 =  115.3 	diff =  -2.16004991671e-12
+s.s.t =  115.4 	self.i =  754 	self.time[i]*1e3 =  115.4 	diff =  -2.16004991671e-12
+s.s.t =  115.5 	self.i =  755 	self.time[i]*1e3 =  115.5 	diff =  -2.16004991671e-12
+s.s.t =  115.6 	self.i =  756 	self.time[i]*1e3 =  115.6 	diff =  -2.16004991671e-12
+s.s.t =  115.7 	self.i =  757 	self.time[i]*1e3 =  115.7 	diff =  -2.16004991671e-12
+s.s.t =  115.8 	self.i =  758 	self.time[i]*1e3 =  115.8 	diff =  -2.18847162614e-12
+s.s.t =  115.9 	self.i =  759 	self.time[i]*1e3 =  115.9 	diff =  -2.16004991671e-12
+s.s.t =  116.0 	self.i =  760 	self.time[i]*1e3 =  116.0 	diff =  -2.18847162614e-12
+s.s.t =  116.1 	self.i =  761 	self.time[i]*1e3 =  116.1 	diff =  -2.16004991671e-12
+s.s.t =  116.2 	self.i =  762 	self.time[i]*1e3 =  116.2 	diff =  -2.18847162614e-12
+s.s.t =  116.3 	self.i =  763 	self.time[i]*1e3 =  116.3 	diff =  -2.18847162614e-12
+s.s.t =  116.4 	self.i =  764 	self.time[i]*1e3 =  116.4 	diff =  -2.18847162614e-12
+s.s.t =  116.5 	self.i =  765 	self.time[i]*1e3 =  116.5 	diff =  -2.18847162614e-12
+s.s.t =  116.6 	self.i =  766 	self.time[i]*1e3 =  116.6 	diff =  -2.18847162614e-12
+s.s.t =  116.7 	self.i =  767 	self.time[i]*1e3 =  116.7 	diff =  -2.18847162614e-12
+s.s.t =  116.8 	self.i =  768 	self.time[i]*1e3 =  116.8 	diff =  -2.21689333557e-12
+s.s.t =  116.9 	self.i =  769 	self.time[i]*1e3 =  116.9 	diff =  -2.18847162614e-12
+s.s.t =  117.0 	self.i =  770 	self.time[i]*1e3 =  117.0 	diff =  -2.21689333557e-12
+s.s.t =  117.1 	self.i =  771 	self.time[i]*1e3 =  117.1 	diff =  -2.18847162614e-12
+s.s.t =  117.2 	self.i =  772 	self.time[i]*1e3 =  117.2 	diff =  -2.20268248086e-12
+s.s.t =  117.3 	self.i =  773 	self.time[i]*1e3 =  117.3 	diff =  -2.21689333557e-12
+s.s.t =  117.4 	self.i =  774 	self.time[i]*1e3 =  117.4 	diff =  -2.21689333557e-12
+s.s.t =  117.5 	self.i =  775 	self.time[i]*1e3 =  117.5 	diff =  -2.21689333557e-12
+s.s.t =  117.6 	self.i =  776 	self.time[i]*1e3 =  117.6 	diff =  -2.21689333557e-12
+s.s.t =  117.7 	self.i =  777 	self.time[i]*1e3 =  117.7 	diff =  -2.21689333557e-12
+s.s.t =  117.8 	self.i =  778 	self.time[i]*1e3 =  117.8 	diff =  -2.245315045e-12
+s.s.t =  117.9 	self.i =  779 	self.time[i]*1e3 =  117.9 	diff =  -2.21689333557e-12
+s.s.t =  118.0 	self.i =  780 	self.time[i]*1e3 =  118.0 	diff =  -2.245315045e-12
+s.s.t =  118.1 	self.i =  781 	self.time[i]*1e3 =  118.1 	diff =  -2.21689333557e-12
+s.s.t =  118.2 	self.i =  782 	self.time[i]*1e3 =  118.2 	diff =  -2.245315045e-12
+s.s.t =  118.3 	self.i =  783 	self.time[i]*1e3 =  118.3 	diff =  -2.245315045e-12
+s.s.t =  118.4 	self.i =  784 	self.time[i]*1e3 =  118.4 	diff =  -2.245315045e-12
+s.s.t =  118.5 	self.i =  785 	self.time[i]*1e3 =  118.5 	diff =  -2.245315045e-12
+s.s.t =  118.6 	self.i =  786 	self.time[i]*1e3 =  118.6 	diff =  -2.245315045e-12
+s.s.t =  118.7 	self.i =  787 	self.time[i]*1e3 =  118.7 	diff =  -2.245315045e-12
+s.s.t =  118.8 	self.i =  788 	self.time[i]*1e3 =  118.8 	diff =  -2.27373675443e-12
+s.s.t =  118.9 	self.i =  789 	self.time[i]*1e3 =  118.9 	diff =  -2.245315045e-12
+s.s.t =  119.0 	self.i =  790 	self.time[i]*1e3 =  119.0 	diff =  -2.27373675443e-12
+s.s.t =  119.1 	self.i =  791 	self.time[i]*1e3 =  119.1 	diff =  -2.245315045e-12
+s.s.t =  119.2 	self.i =  792 	self.time[i]*1e3 =  119.2 	diff =  -2.27373675443e-12
+s.s.t =  119.3 	self.i =  793 	self.time[i]*1e3 =  119.3 	diff =  -2.27373675443e-12
+s.s.t =  119.4 	self.i =  794 	self.time[i]*1e3 =  119.4 	diff =  -2.27373675443e-12
+s.s.t =  119.5 	self.i =  795 	self.time[i]*1e3 =  119.5 	diff =  -2.27373675443e-12
+s.s.t =  119.6 	self.i =  796 	self.time[i]*1e3 =  119.6 	diff =  -2.27373675443e-12
+s.s.t =  119.7 	self.i =  797 	self.time[i]*1e3 =  119.7 	diff =  -2.27373675443e-12
+s.s.t =  119.8 	self.i =  798 	self.time[i]*1e3 =  119.8 	diff =  -2.30215846386e-12
+s.s.t =  119.9 	self.i =  799 	self.time[i]*1e3 =  119.9 	diff =  -2.27373675443e-12
+s.s.t =  120.0 	self.i =  800 	self.time[i]*1e3 =  120.0 	diff =  -2.30215846386e-12
+s.s.t =  120.1 	self.i =  801 	self.time[i]*1e3 =  120.1 	diff =  -2.27373675443e-12
+s.s.t =  120.2 	self.i =  802 	self.time[i]*1e3 =  120.2 	diff =  -2.30215846386e-12
+s.s.t =  120.3 	self.i =  803 	self.time[i]*1e3 =  120.3 	diff =  -2.30215846386e-12
+s.s.t =  120.4 	self.i =  804 	self.time[i]*1e3 =  120.4 	diff =  -2.30215846386e-12
+s.s.t =  120.5 	self.i =  805 	self.time[i]*1e3 =  120.5 	diff =  -2.28794760915e-12
+s.s.t =  120.6 	self.i =  806 	self.time[i]*1e3 =  120.6 	diff =  -2.31636931858e-12
+s.s.t =  120.7 	self.i =  807 	self.time[i]*1e3 =  120.7 	diff =  -2.30215846386e-12
+s.s.t =  120.8 	self.i =  808 	self.time[i]*1e3 =  120.8 	diff =  -2.33058017329e-12
+s.s.t =  120.9 	self.i =  809 	self.time[i]*1e3 =  120.9 	diff =  -2.30215846386e-12
+s.s.t =  121.0 	self.i =  810 	self.time[i]*1e3 =  121.0 	diff =  -2.31636931858e-12
+s.s.t =  121.1 	self.i =  811 	self.time[i]*1e3 =  121.1 	diff =  -2.31636931858e-12
+s.s.t =  121.2 	self.i =  812 	self.time[i]*1e3 =  121.2 	diff =  -2.33058017329e-12
+s.s.t =  121.3 	self.i =  813 	self.time[i]*1e3 =  121.3 	diff =  -2.33058017329e-12
+s.s.t =  121.4 	self.i =  814 	self.time[i]*1e3 =  121.4 	diff =  -2.33058017329e-12
+s.s.t =  121.5 	self.i =  815 	self.time[i]*1e3 =  121.5 	diff =  -2.31636931858e-12
+s.s.t =  121.6 	self.i =  816 	self.time[i]*1e3 =  121.6 	diff =  -2.34479102801e-12
+s.s.t =  121.7 	self.i =  817 	self.time[i]*1e3 =  121.7 	diff =  -2.33058017329e-12
+s.s.t =  121.8 	self.i =  818 	self.time[i]*1e3 =  121.8 	diff =  -2.35900188272e-12
+s.s.t =  121.9 	self.i =  819 	self.time[i]*1e3 =  121.9 	diff =  -2.33058017329e-12
+s.s.t =  122.0 	self.i =  820 	self.time[i]*1e3 =  122.0 	diff =  -2.34479102801e-12
+s.s.t =  122.1 	self.i =  821 	self.time[i]*1e3 =  122.1 	diff =  -2.34479102801e-12
+s.s.t =  122.2 	self.i =  822 	self.time[i]*1e3 =  122.2 	diff =  -2.35900188272e-12
+s.s.t =  122.3 	self.i =  823 	self.time[i]*1e3 =  122.3 	diff =  -2.35900188272e-12
+s.s.t =  122.4 	self.i =  824 	self.time[i]*1e3 =  122.4 	diff =  -2.35900188272e-12
+s.s.t =  122.5 	self.i =  825 	self.time[i]*1e3 =  122.5 	diff =  -2.34479102801e-12
+s.s.t =  122.6 	self.i =  826 	self.time[i]*1e3 =  122.6 	diff =  -2.37321273744e-12
+s.s.t =  122.7 	self.i =  827 	self.time[i]*1e3 =  122.7 	diff =  -2.35900188272e-12
+s.s.t =  122.8 	self.i =  828 	self.time[i]*1e3 =  122.8 	diff =  -2.38742359215e-12
+s.s.t =  122.9 	self.i =  829 	self.time[i]*1e3 =  122.9 	diff =  -2.35900188272e-12
+s.s.t =  123.0 	self.i =  830 	self.time[i]*1e3 =  123.0 	diff =  -2.37321273744e-12
+s.s.t =  123.1 	self.i =  831 	self.time[i]*1e3 =  123.1 	diff =  -2.37321273744e-12
+s.s.t =  123.2 	self.i =  832 	self.time[i]*1e3 =  123.2 	diff =  -2.38742359215e-12
+s.s.t =  123.3 	self.i =  833 	self.time[i]*1e3 =  123.3 	diff =  -2.38742359215e-12
+s.s.t =  123.4 	self.i =  834 	self.time[i]*1e3 =  123.4 	diff =  -2.38742359215e-12
+s.s.t =  123.5 	self.i =  835 	self.time[i]*1e3 =  123.5 	diff =  -2.37321273744e-12
+s.s.t =  123.6 	self.i =  836 	self.time[i]*1e3 =  123.6 	diff =  -2.40163444687e-12
+s.s.t =  123.7 	self.i =  837 	self.time[i]*1e3 =  123.7 	diff =  -2.38742359215e-12
+s.s.t =  123.8 	self.i =  838 	self.time[i]*1e3 =  123.8 	diff =  -2.40163444687e-12
+s.s.t =  123.9 	self.i =  839 	self.time[i]*1e3 =  123.9 	diff =  -2.38742359215e-12
+s.s.t =  124.0 	self.i =  840 	self.time[i]*1e3 =  124.0 	diff =  -2.41584530158e-12
+s.s.t =  124.1 	self.i =  841 	self.time[i]*1e3 =  124.1 	diff =  -2.40163444687e-12
+s.s.t =  124.2 	self.i =  842 	self.time[i]*1e3 =  124.2 	diff =  -2.41584530158e-12
+s.s.t =  124.3 	self.i =  843 	self.time[i]*1e3 =  124.3 	diff =  -2.40163444687e-12
+s.s.t =  124.4 	self.i =  844 	self.time[i]*1e3 =  124.4 	diff =  -2.41584530158e-12
+s.s.t =  124.5 	self.i =  845 	self.time[i]*1e3 =  124.5 	diff =  -2.41584530158e-12
+s.s.t =  124.6 	self.i =  846 	self.time[i]*1e3 =  124.6 	diff =  -2.4300561563e-12
+s.s.t =  124.7 	self.i =  847 	self.time[i]*1e3 =  124.7 	diff =  -2.41584530158e-12
+s.s.t =  124.8 	self.i =  848 	self.time[i]*1e3 =  124.8 	diff =  -2.4300561563e-12
+s.s.t =  124.9 	self.i =  849 	self.time[i]*1e3 =  124.9 	diff =  -2.41584530158e-12
+s.s.t =  125.0 	self.i =  850 	self.time[i]*1e3 =  125.0 	diff =  0.0
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+[Finished in 4.102s]
