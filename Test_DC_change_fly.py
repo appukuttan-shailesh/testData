@@ -29,11 +29,6 @@ plt.ylabel("Vm (mV)")
 plt.tight_layout()
 plt.show(block=True)
 
-print data[int(simtime / dt), 0]
-print data[-1, 0]
-print int(simtime / dt)
-print data.times[int(simtime / dt)]
-
 # check that the value of v just before increasing the current is less than
 # the value at the end of the simulation
 assert data[int(simtime / dt), 0] < data[-1, 0]
