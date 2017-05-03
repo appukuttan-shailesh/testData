@@ -2,9 +2,6 @@ import nest
 import numpy as np
 import pylab as pl
 
-# quite badly written code
-# could easily be condensed if I was more aware of NEST syntax
-
 # create neuron
 neuron_noise = nest.Create('iaf_cond_alpha', params = {'V_reset': -65.0})
 
