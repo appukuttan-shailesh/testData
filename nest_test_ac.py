@@ -14,7 +14,7 @@ m_Inj_ac = nest.Create('multimeter', params = {'record_from': ['I'], 'interval' 
 ac = nest.Create('ac_generator', 1, params = {'amplitude': 550.0,
                                               'offset': 1000.0,
                                               'frequency': 100.0,
-                                              'phase' : 180.0, 'origin' : 2.5,
+                                              'phase' : 0.0, 'origin' : 2.5,
                                               'start' : 2.5, 'stop' : 40.0})
 nest.Connect(ac, neuron_ac)
 nest.Connect(m_Vm_ac, neuron_ac)
