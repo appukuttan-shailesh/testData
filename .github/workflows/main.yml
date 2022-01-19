@@ -1,0 +1,15 @@
+name: Live Paper Monitor
+on:
+  schedule:
+    - cron: '10 */1 * * *'
+    # - cron: '10 */3 * * *'
+jobs:
+  Job_1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test_1
+        run: echo "Running Test_1!"
+      - name: Test_2
+        run: |
+          echo "Running Test_2: Line 1!"
+          echo "Running Test_2: Line 2!"
