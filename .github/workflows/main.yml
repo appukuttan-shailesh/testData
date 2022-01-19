@@ -20,5 +20,4 @@ jobs:
           pip install Faker
 
       - name: execute py script
-        env: 
-          run: python .github/workflows/checkData.py
+        run: python .github/workflows/checkData.py
