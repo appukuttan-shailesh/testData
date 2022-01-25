@@ -80,7 +80,7 @@ describe("LivePaper public API test suite", () => {
         });
     });
 
-    it.only("Query a non-existing live paper", () => {
+    it("Query a non-existing live paper", () => {
         cy.request({
             method: "GET",
             url: "https://validation-v2.brainsimulation.eu/livepapers-published/abcde12345",
