@@ -2,5 +2,7 @@
     "viewportHeight": 786,
     "viewportWidth": 1024,
     "chromeWebSecurity": false,
-    "watchForFileChanges": false
+    "watchForFileChanges": false,
+    "projectId": "i9gn6g",
+    "video": true
 }

@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 describe("LivePaper public API test suite", () => {
-    it("Query all published live papers", () => {
+    it.only("Query all published live papers and verify that they have required data", () => {
         cy.request(
             "GET",
             "https://validation-v2.brainsimulation.eu/livepapers-published/"
@@ -13,6 +13,7 @@ describe("LivePaper public API test suite", () => {
             expect(response.body).to.be.a("array");
             cy.wrap(response.body).should("have.length.greaterThan", 0);
 
+            // Checking for summary JSON data
             cy.fixture("lp_keys_summary.json").then((lpKeys) => {
                 // check each array element (lp object) has all required keys
                 cy.wrap(response.body).each((item) => {
@@ -32,6 +33,43 @@ describe("LivePaper public API test suite", () => {
                         }
                     });
                 });
+            });
+
+            // Checking for complete LP JSON data for each live paper
+            cy.wrap(response.body).each((item) => {
+                cy.log("LP ID: " + item.id);
+                cy.log("LP Title: " + item.live_paper_title);
+                // TODO: remove this exception, all LPs should pass this
+                if (!["2021-vitale-et-al"].includes(item["alias"])) {
+                    cy.request(
+                        "GET",
+                        "https://validation-v2.brainsimulation.eu/livepapers-published/" +
+                            item["id"]
+                    ).then((response2) => {
+                        // check response is 200
+                        expect(response2.status).to.equal(200);
+                        cy.fixture("lp_keys_all.json").then((lpKeys) => {
+                            // check lp object has all required keys
+                            // Note: we check here for complete set of keys
+                            expect(response2.body).to.have.all.keys(lpKeys);
+
+                            // check all keys have valid values
+                            lpKeys.forEach((key) => {
+                                cy.log("Key: " + key);
+                                // TODO: License should not be null; fix API error!
+                                if (
+                                    [
+                                        "version",
+                                        "resources_description",
+                                        "license",
+                                    ].includes(key)
+                                )
+                                    return true;
+                                else expect(response2.body[key]).to.be.ok;
+                            });
+                        });
+                    });
+                }
             });
         });
     });
