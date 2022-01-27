@@ -1,7 +1,38 @@
 /// <reference types="cypress" />
 
+import 'cypress-each'
+
 describe("LivePaper public API test suite", () => {
-    it.only("Query all published live papers and verify that they have required data", () => {
+
+    describe.only('my tests', () => {
+        beforeEach(() => {
+            // cy.request(
+            //     "GET",
+            //     "https://jsonplaceholder.cypress.io/users?_limit=3"
+            // ).then((response) => {
+            //     cy.wrap(response.body).as('data')
+            //     cy.log(response.body)
+            // })
+
+            cy.request(
+                "GET",
+                "https://jsonplaceholder.cypress.io/users?_limit=3"
+            ).its('body')
+            .as('data')
+        })
+        
+        it.each(this.data)('has correct types', (item) => {
+            // console.log(this.data)
+            // console.log(item)
+            // the type for the "user" should be
+            // name: string, age: number
+            expect(item.id).to.be.a('number')
+            expect(item.name).to.be.a('string')
+        })
+
+    })
+
+    it("Query all published live papers and verify that they have required data", () => {
         cy.request(
             "GET",
             "https://validation-v2.brainsimulation.eu/livepapers-published/"
@@ -44,7 +75,7 @@ describe("LivePaper public API test suite", () => {
                     cy.request(
                         "GET",
                         "https://validation-v2.brainsimulation.eu/livepapers-published/" +
-                            item["id"]
+                        item["id"]
                     ).then((response2) => {
                         // check response is 200
                         expect(response2.status).to.equal(200);

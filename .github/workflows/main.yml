@@ -25,6 +25,8 @@ jobs:
         env:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CYPRESS_LP_USERNAME: ${{ secrets.CYPRESS_LP_USERNAME }}
+          CYPRESS_LP_PASSWORD: ${{ secrets.CYPRESS_LP_PASSWORD }}
       
       # - name: setup python
       #   uses: actions/setup-python@v2
